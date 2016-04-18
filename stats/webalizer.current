@@ -1,0 +1,5455 @@
+# Webalizer V2.23-08 Incremental Data - 04/18/2016 01:54:38
+2016 4 18 1 54 38
+20528 16890 991 991 95 71 359072684 14038 1955 0
+12 56 887 1 18
+197 128 2818587 67 158 86
+196 118 3204819 93 164 113
+991 848 8096156 145 948 175
+1634 1493 23427064 118 1240 143
+465 344 4705919 91 357 118
+1185 1005 24033162 91 714 121
+672 493 17423039 83 325 110
+1494 1300 16445621 65 1237 88
+185 103 2401609 79 149 102
+934 854 7414889 118 877 111
+3597 2866 55664654 88 2360 122
+1010 808 23538615 88 496 116
+974 870 7323422 74 946 103
+2004 1740 39845188 92 1271 108
+3927 3169 76334236 83 2329 105
+232 133 3294838 86 184 121
+767 605 42115398 121 224 106
+64 13 985468 12 59 11
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1109 1032 14974714 867
+224 108 2166620 204
+264 193 6041224 170
+517 451 4242719 500
+921 869 7582763 853
+2066 2006 12640103 2020
+194 62 3199610 144
+156 109 2106379 91
+128 77 1058233 112
+282 163 3171061 137
+1327 953 28417408 864
+1578 1029 37305046 513
+2922 2465 43866396 2197
+579 452 11081588 322
+600 480 10181617 310
+1178 1019 15795643 722
+2027 1845 30743396 1456
+1171 806 27355802 631
+423 299 13001181 258
+296 234 10148436 122
+365 261 15539782 128
+1249 1175 31844853 902
+424 340 18062413 150
+528 462 8545697 365
+0
+0
+0
+16890
+0
+0
+0
+0
+0
+38
+0
+356
+145
+0
+1572
+0
+0
+0
+0
+0
+11
+719
+4
+775
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+18
+0
+0
+0
+0
+0
+# -urls- 
+/wp-content/uploads/wpcf7_captcha/861520456.png
+1 1 0 1276 0 0
+/wp-content/themes/tourpackage-v2-01/images/top-slider-nav-right.png
+1 20 0 57220 0 0
+/wp-content/uploads/2016/04/mindo-butterfly-300x225.jpg
+1 1 0 30880 0 0
+/wp-content/uploads/2016/04/gym-isabela-yacht-150x150.jpg
+1 1 0 12636 0 0
+/sitemap_index.xml
+0 45 0 98145 0 0
+/galapagos-island-hopping/feed/
+0 1 0 700 0 0
+/wp-content/uploads/2016/02/casa-del-suizo-lodge-150x150.jpg
+1 1 0 8404 0 0
+/wp-content/uploads/2016/02/discovering-galapagos-logo-150x75.png
+1 6 0 19044 0 0
+/wp-content/uploads/wpcf7_captcha/2672710344.png
+1 1 0 1333 0 0
+/wp-content/plugins/wordpress-seo/js/wp-seo-featured-image-310.min.js
+0 6 0 2178 0 0
+/wp-content/uploads/2016/04/golondrina-yacht-sundeck-150x150.jpg
+1 1 0 9194 0 0
+/wp-content/uploads/2016/04/cuyabeno-lodge-amazon-ecuador1-300x225.jpg
+1 1 0 27047 0 0
+/page-builder/feed/
+0 1 0 688 1 0
+/wp-content/plugins/LayerSlider/static/css/admin_new.css
+0 5 0 112464 0 0
+/wp-content/plugins/contact-form-7/license.txt
+0 1 0 18092 0 0
+/wp-content/themes/tourpackage-v2-01/include/stylesheet/jquery-ui-1.8.16.custom.css
+0 7 0 50226 0 0
+/wp-content/uploads/2015/09/blue-footed-booby-galapagos-islands-e1441686207653-400x300.jpg
+1 7 0 304696 0 0
+/wp-content/themes/tourpackage-v2-01/javascript/jquery.fancybox.js
+0 72 0 616532 0 0
+/wp-content/uploads/2016/04/athala-twin-cabin1-300x187.jpg
+1 5 0 102435 0 0
+/2011/12/06/etiam-porta-sem/feed/
+0 1 0 668 1 1
+/wp-content/uploads/2016/03/Anakonda-amazon-cruise.jpg
+1 2 0 250898 0 0
+/wp-content/uploads/2016/04/anakonda-amazon-cruise-suite.jpg
+1 2 0 250988 0 0
+/wp-content/uploads/wpcf7_captcha/2810408731.png
+1 1 0 1287 0 0
+/wp-content/themes/tourpackage-v2-01/images/nivo-slider/bg_direction_nav_custom.png
+1 17 0 57205 0 0
+/wp-content/uploads/2016/04/Queen-Beatriz-yacht-sundeck-150x150.jpg
+1 1 0 11360 0 0
+/wp-content/uploads/2016/04/santa-cruz-ii-yacht-cabin-300x225.jpg
+1 3 0 55374 0 0
+/wp-content/uploads/wpcf7_captcha/1544431129.png
+1 1 0 1166 0 0
+/wp-content/uploads/2016/04/golondrina-yacht-lounge.jpg
+1 2 0 269508 0 0
+/wp-content/uploads/2016/03/aida-maria-yacht.jpg
+1 4 0 741992 0 0
+/wp-content/plugins/LayerSlider/static/codemirror/mode/javascript/javascript.js
+0 5 0 52062 0 0
+/search/1/feed/rss2/
+0 1 0 922 0 0
+/wp-content/uploads/wpcf7_captcha/3964131204.png
+1 1 0 1176 0 0
+/wp-content/themes/tourpackage-v2-01/include/stylesheet/page-dragging.css
+0 1 0 6348 0 0
+/wp-content/plugins/LayerSlider/static/css/admin.css
+0 5 0 53478 0 0
+/full-thumbnail-both-sidebar/feed/
+0 1 0 703 1 0
+/wp-content/uploads/2016/04/Queen-Beatriz-Yacht-300x200.jpg
+1 1 0 17515 0 0
+/luxury-class-yachts/feed/
+0 1 0 695 0 0
+/wp-content/uploads/2016/03/aida-maria-yacht-300x225.jpg
+1 5 0 105620 0 0
+/wp-content/uploads/2016/04/Yasuni_kichwa_ecolodge-150x150.jpg
+1 1 0 9214 0 0
+/package/la-pinta-yacht/
+0 13 0 668254 1 1
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/slide-d-5-3.png
+1 4 0 1996 0 0
+/wp-content/uploads/2016/04/anakonda-amazon-cruise-suite2-300x225.jpg
+1 1 0 17536 0 0
+/wp-content/uploads/2016/04/quito-san-francisco-church.jpg
+1 3 0 1009629 0 0
+/wp-content/uploads/2016/04/chimborazo-volcano-volcano-avenue.jpg
+1 1 0 241788 0 0
+/wp-content/uploads/2015/09/Eco-Galaxy-Catamaran-Sundeck-300x225.jpg
+1 5 0 102305 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/panel-element-tail-bg.png
+1 1 0 2951 0 0
+/wp-content/uploads/wpcf7_captcha/2613675171.png
+1 1 0 1339 0 0
+/wp-content/uploads/wpcf7_captcha/2492803691.png
+1 1 0 1326 0 0
+/wp-content/uploads/wpcf7_captcha/2754747489.png
+1 1 0 1445 0 0
+/thumbnail-management/feed/
+0 1 0 696 1 0
+/wp-content/uploads/2016/04/fragata-yacht-lounge-150x150.jpg
+1 1 0 12298 0 0
+/wp-content/uploads/2016/04/golondrina-yacht-sundeck.jpg
+1 2 0 264400 0 0
+/wp-content/plugins/LayerSlider/static/codemirror/addon/selection/active-line.js
+0 5 0 3960 0 0
+/wp-content/uploads/2015/09/Galaxy-Yacht-sundeck-300x225.jpg
+1 7 0 119166 0 0
+/wp-includes/js/tinymce/langs/wp-langs-en.js
+0 6 0 15599 0 0
+/wp-content/uploads/2016/04/cuyabeno-lodge-amazon-ecuador1-150x150.jpg
+1 1 0 9958 0 0
+/category/conference/feed/
+0 1 0 913 1 0
+/package/galapagos-adventure-6d-5n/
+0 5 0 187836 0 0
+/wp-content/uploads/2016/03/la-pinta-yacht-400x260.jpg
+1 11 0 344465 0 0
+/wp-content/uploads/2016/04/Yasuni-kichwa-ecolodge-canoe1-150x150.jpg
+1 1 0 9250 0 0
+/wp-content/uploads/wpcf7_captcha/2873139951.png
+1 1 0 1399 0 0
+/package-medium-thumbnail/feed/
+0 1 0 700 1 1
+/wp-content/uploads/wpcf7_captcha/1932966772.png
+1 1 0 1174 0 0
+/wp-content/uploads/2016/04/eclipse-yacht-400x300.jpg
+1 6 0 167562 0 0
+/wp-content/themes/tourpackage-v2-01/javascript/gdl-scripts.js
+0 72 0 398216 0 0
+/wp-content/uploads/wpcf7_captcha/3956458272.png
+1 1 0 1301 0 0
+/wp-content/uploads/wpcf7_captcha/2176403882.png
+1 1 0 1260 0 0
+/wp-content/uploads/wpcf7_captcha/3413526977.png
+1 1 0 1253 0 0
+/wp-content/uploads/wpcf7_captcha/248592951.png
+1 1 0 1296 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/no-sidebar.png
+1 6 0 25314 0 0
+/wp-content/uploads/2016/04/angelito-yacht-sundeck-300x225.jpg
+1 2 0 59992 0 0
+/wp-content/uploads/2016/04/santa-cruz-ii-yacht-jacuzzi-300x225.jpg
+1 3 0 75960 0 0
+/wp-content/uploads/wpcf7_captcha/1769008475.png
+1 1 0 1389 0 0
+/wp-content/uploads/2016/04/anakonda-amazon-cruise-suite3-150x150.jpg
+1 1 0 8483 0 0
+/wp-content/uploads/2016/04/eden-yacht-cabin-150x150.jpg
+1 1 0 9100 0 0
+/wp-content/uploads/wpcf7_captcha/1963022927.png
+1 1 0 1469 0 0
+/wp-content/uploads/2016/03/la-pinta-yacht-150x150.jpg
+1 1 0 9614 0 0
+/wp-content/uploads/2013/08/star.png
+1 2 0 2486 0 0
+/wp-content/uploads/2016/04/quilotoa-lagoon.jpg
+1 1 0 185691 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/footer-style2.png
+1 1 0 3224 0 0
+/wp-content/uploads/wpcf7_captcha/1391956909.png
+1 1 0 1293 0 0
+/wp-content/uploads/wpcf7_captcha/2420511716.png
+1 1 0 1327 0 0
+/wp-content/uploads/2016/04/devils-nose-train.jpg
+1 2 0 297760 0 0
+/wp-content/uploads/2016/04/cuicocha-lagoon-ecuador.jpg
+1 2 0 357868 0 0
+/wp-content/plugins/LayerSlider/static/codemirror/lib/codemirror.css
+0 5 0 18075 0 0
+/wp-content/plugins/LayerSlider/static/css/layerslider.transitiongallery.css
+0 5 0 6102 0 0
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/feature-android.png
+1 4 0 6088 0 0
+/wp-content/uploads/2016/02/fragata-yacht-300x200.jpg
+1 5 0 121930 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/no-sidebar-120.png
+1 1 0 4216 0 0
+/wp-content/uploads/2015/09/blue-footed-booby-galapagos-islands-e1441686207653-400x260.jpg
+1 14 0 549206 0 0
+/wp-content/uploads/2016/03/Anakonda-amazon-cruise-400x260.jpg
+1 11 0 364276 0 0
+/wp-content/uploads/wpcf7_captcha/2710811785.png
+1 1 0 1315 0 0
+/wp-content/uploads/2015/09/Galaxy-Yacht-living-room.jpg
+1 5 0 1606940 0 0
+/wp-content/uploads/wpcf7_captcha/2729067024.png
+1 1 0 1165 0 0
+/wp-content/uploads/2016/04/quito-san-francisco-church-300x225.jpg
+1 1 0 24710 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/panel-child-nav-hover.png
+1 1 0 9697 0 0
+/wp-content/uploads/2016/04/quito-the-middle-of-the-world-monument.jpg
+1 1 0 256032 0 0
+/wp-content/uploads/2016/04/Otavalo-indigenous-market-300x200.jpg
+1 1 0 37616 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/save-complete-bg.png
+1 1 0 991 0 0
+/wp-includes/css/buttons.min.css
+0 7 0 29405 0 0
+/wp-content/uploads/2016/04/quito-carondelet-palace-300x225.jpg
+1 1 0 24284 0 0
+/wp-content/uploads/2013/08/icon-mail.png
+1 2 0 2526 0 0
+/wp-content/uploads/wpcf7_captcha/1244151309.png
+1 1 0 1403 0 0
+/wp-content/uploads/2016/02/galapagos-frigate-bird-300x225.jpg
+1 5 0 106865 0 0
+/wp-content/plugins/LayerSlider/static/codemirror/lib/codemirror.js
+0 5 0 679569 0 0
+/wp-content/uploads/wpcf7_captcha/3602811864.png
+1 1 0 1342 0 0
+/wp-content/uploads/2016/04/golondrina-yacht-cabin.jpg
+1 2 0 231484 0 0
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/feature-ios.png
+1 4 0 5360 0 0
+/rsslatest.xml
+0 20 0 101840 0 0
+/wp-content/uploads/wpcf7_captcha/2272380074.png
+1 1 0 1360 0 0
+/wp-content/uploads/wpcf7_captcha/918199867.png
+1 1 0 1422 0 0
+/wp-content/uploads/wpcf7_captcha/643016260.png
+1 1 0 1137 0 0
+/wp-content/uploads/2016/03/new-flamingo-yacht-150x150.jpg
+1 2 0 21432 0 0
+/wp-content/uploads/wpcf7_captcha/2592301565.png
+1 1 0 1104 0 0
+/package/galapagos-dreams-7d-6n/
+0 10 0 385544 5 5
+/blog-3-columns/feed/
+0 1 0 690 1 0
+/wp-content/uploads/2013/08/traveller-155x300.png
+1 2 0 138024 0 0
+/wp-content/uploads/wpcf7_captcha/3380168021.png
+1 1 0 1432 0 0
+/wp-content/uploads/2016/04/fragata-yacht-cabin-150x150.jpg
+1 1 0 10671 0 0
+/wp-content/uploads/2016/04/athala-sundeck.jpg
+1 7 0 1000255 0 0
+/wp-content/uploads/2016/04/santa-cruz-ii-yacht-sundeck-300x225.jpg
+1 3 0 50151 0 0
+/wp-content/uploads/2015/08/anahi-yacht-300x201.jpg
+1 5 0 77190 0 0
+/wp-content/plugins/wordpress-seo/js/dist/yoast-seo/yoast-seo-310.min.js
+0 6 0 127299 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/right-sidebar-120.png
+1 1 0 4043 0 0
+/wp-content/uploads/2015/09/blue-footed-booby-galapagos-islands-300x188.jpg
+1 5 0 124050 0 0
+/wp-content/uploads/2016/04/papallacta-thermas-ecuador.jpg
+1 1 0 518242 0 0
+/wp-content/uploads/2015/09/Eco-Galaxy-Catamaran-Saloon-300x225.jpg
+1 5 0 123150 0 0
+/package/galapagos-discovered-5d-4n/
+0 5 0 196671 2 2
+/wp-content/uploads/2016/03/athala-yacht-400x300.jpg
+1 15 0 542655 0 0
+/wp-content/uploads/2016/04/otavalo-indigenous-market-150x150.jpg
+1 1 0 15638 0 0
+/amazon-tours/page/3/
+0 1 0 24508 1 1
+/wp-content/themes/tourpackage-v2-01/include/images/panel-element-head-bg.png
+1 1 0 2951 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/footer-style5.png
+1 1 0 3247 0 0
+/wp-content/uploads/2016/04/anakonda-amazon-cruise-suite2-150x150.jpg
+1 1 0 7621 0 0
+/2013/01/01/fringilla-commodo-aenean/feed/
+0 1 0 677 1 0
+/wp-content/plugins/LayerSlider/static/skins/packagetour/skin.css
+0 29 0 31552 0 0
+/wp-content/themes/tourpackage-v2-01/images/icon/light/accordion-title-active.png
+1 14 0 39368 0 0
+/blog-4-columns/feed/
+0 1 0 690 1 0
+/wp-includes/js/thickbox/thickbox.css
+0 9 0 6444 0 0
+/wp-content/uploads/2016/04/angelito-yacht-cabin.jpg
+1 3 0 317616 0 0
+/wp-content/uploads/2016/04/Cotopaxi-volcano-Ecuador-150x150.jpg
+1 1 0 7708 0 0
+/wp-content/uploads/2016/03/la-pinta-yacht-400x300.jpg
+1 15 0 541935 0 0
+/tag/drugs/feed/
+0 1 0 898 1 0
+/wp-content/themes/tourpackage-v2-01/include/images/description-border.png
+1 7 0 19614 0 0
+/google283700d73c8ced07.html
+0 1 0 53 1 0
+/package/yasuni-kichwa-ecolodge/
+0 11 0 518607 1 1
+/wp-content/uploads/2016/04/cuenca-cathedral.jpg
+1 2 0 1129340 0 0
+/wp-content/uploads/wpcf7_captcha/3704863614.png
+1 1 0 1490 0 0
+/portfolio/donec-ullamcorper/
+0 5 0 150135 4 1
+/wp-content/uploads/wpcf7_captcha/1515664881.png
+1 1 0 1212 0 0
+/wp-content/uploads/wpcf7_captcha/3650944127.png
+1 1 0 1415 0 0
+/wp-content/uploads/wpcf7_captcha/2580056381.png
+1 1 0 1189 0 0
+/wp-admin/load-scripts.php
+0 16 0 1558383 0 0
+/wp-content/uploads/2016/03/isabela-yacht-400x260.jpg
+1 13 0 386373 0 0
+/first-class-yachts/feed/
+0 1 0 694 0 0
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/slide-d-5-6.png
+1 4 0 3160 0 0
+/package/sacha-lodge/
+0 8 0 421804 2 0
+/category/daily-lfe/
+0 1 0 24514 1 0
+/wp-admin/images/spinner.gif
+1 6 0 24972 0 0
+/wp-content/uploads/2016/04/golondrina-yacht-cabin-300x225.jpg
+1 2 0 35466 0 0
+/wp-content/uploads/wpcf7_captcha/219842331.png
+1 1 0 1507 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/panel-parent-nav.png
+1 1 0 3129 0 0
+/wp-content/uploads/2015/08/anahi-yacht-saloon-150x150.jpg
+1 1 0 11116 0 0
+/wp-content/uploads/2016/04/otavalo-indigenous-150x150.jpg
+1 1 0 11484 0 0
+/wp-includes/images/spinner-2x.gif
+1 2 0 17072 0 0
+/wp-content/uploads/2016/04/quito-la-compania-church-300x225.jpg
+1 1 0 28911 0 0
+/wp-content/uploads/2016/04/Yasuni_kichwa_ecolodge-300x225.jpg
+1 1 0 23699 0 0
+/wp-content/uploads/2016/04/new-flamingo-yacht-cabin-150x150.jpg
+1 1 0 9397 0 0
+/wp-content/themes/tourpackage-v2-01/stylesheet/superfish.css
+0 76 0 60228 0 0
+/package-3-columns-2nd-style/feed/
+0 1 0 703 1 1
+/wp-content/uploads/wpcf7_captcha/3747594122.png
+1 1 0 1320 0 0
+/wp-content/uploads/2016/04/eclipse-yacht-150x150.jpg
+1 2 0 15092 0 0
+/wp-content/uploads/2015/11/Sacha-Lodge-400x260.jpg
+1 17 0 588421 0 0
+/blog-2-columns/feed/
+0 1 0 690 1 1
+/portfolio/lorem-ornare/
+0 2 0 59342 1 1
+/wp-content/uploads/2016/02/yasuni-kichwa-ecolodge-150x150.jpg
+1 1 0 7580 0 0
+/wp-content/uploads/2016/04/quito-carondelet-palace-150x150.jpg
+1 1 0 9778 0 0
+/wp-content/plugins/LayerSlider/demos/fullwidth/preview.png
+1 5 0 49715 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/admin-panel/ElementsColor.png
+1 1 0 3402 0 0
+/wp-content/plugins/LayerSlider/static/js/minicolors/jquery.minicolors.js
+0 5 0 78015 0 0
+/tourist-economic-class/
+0 35 0 973120 3 5
+/wp-content/uploads/wpcf7_captcha/3319172923.png
+1 1 0 1159 0 0
+/wp-content/uploads/2016/04/santa-cruz-ii-yacht-sundeck-150x150.jpg
+1 2 0 15110 0 0
+/category/blog/feed/
+0 2 0 1802 2 0
+/category/holiday/
+0 4 0 97984 4 2
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/feature-responsive.png
+1 4 0 4748 0 0
+/wp-content/uploads/2016/02/Otavalo-city-400x260.jpg
+1 10 0 594620 0 0
+/wp-content/uploads/wpcf7_captcha/695507664.png
+1 1 0 1281 0 0
+/wp-content/uploads/wpcf7_captcha/354051933.png
+1 1 0 1152 0 0
+/wp-content/uploads/wpcf7_captcha/4060299861.png
+1 1 0 1329 0 0
+/wp-content/uploads/wpcf7_captcha/1206773080.png
+1 1 0 1177 0 0
+/wp-includes/js/tinymce/wp-tinymce.php
+0 1 0 138516 0 0
+/page/2/
+0 1 0 36005 0 0
+/wp-content/uploads/wpcf7_captcha/2660336763.png
+1 1 0 1324 0 0
+/faq/feed/
+0 20 0 13580 0 1
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/youtube-color.png
+1 5 0 21960 0 0
+/blog-1-column/feed/
+0 1 0 689 1 0
+/wp-content/uploads/2016/04/angelito-yacht-cabin-300x225.jpg
+1 2 0 41354 0 0
+/wp-content/uploads/2013/08/Eco-Galaxy-Yacht-300x206.jpg
+1 5 0 61265 0 0
+/creating-portfolio/feed/
+0 1 0 694 1 1
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/feature-performance.png
+1 4 0 7424 0 0
+/wp-content/themes/tourpackage-v2-01/style-custom.css
+0 84 0 1084359 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/gdl-nav-bg.png
+1 1 0 2961 0 0
+/wp-content/uploads/2016/04/athala-twin-cabin1.jpg
+1 1 0 188344 0 0
+/wp-content/uploads/wpcf7_captcha/2250564513.png
+1 1 0 1518 0 0
+/wp-admin/post.php
+0 118 0 24693294 2 0
+/author/admin/
+0 12 0 293520 3 2
+/wp-content/themes/tourpackage-v2-01/include/images/gdl-media-bg.png
+1 1 0 2870 0 0
+/wp-content/uploads/2015/08/anahi-yacht-cabin1-300x200.jpg
+1 5 0 113155 0 0
+/galapagos-cruises/feed/
+0 1 0 693 0 0
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/feature-options.png
+1 4 0 5128 0 0
+/wp-content/uploads/2013/08/anahi-yacht-150x150.jpg
+1 1 0 7375 0 0
+/wp-content/uploads/wpcf7_captcha/1670880032.png
+1 1 0 1210 0 0
+/wp-content/themes/tourpackage-v2-01/include/stylesheet/gdl-back-office.css
+0 9 0 1107 0 0
+/wp-content/themes/tourpackage-v2-01/javascript/cufon.js
+0 1 0 42873 0 0
+/wp-content/uploads/wpcf7_captcha/4187123722.png
+1 1 0 1137 0 0
+/wp-content/uploads/2016/04/la-pinta-yacht-lounge-300x225.jpg
+1 3 0 84510 0 0
+/wp-content/uploads/wpcf7_captcha/3415994293.png
+1 1 0 1263 0 0
+/wp-content/uploads/2016/02/Cotopaxi-volcano-400x300.jpg
+1 8 0 212984 0 0
+/wp-content/uploads/2016/02/Galapagos-Islands.jpg
+1 6 0 3996036 0 0
+/4-columns-with-button-2/feed/
+0 1 0 699 1 0
+/wp-content/themes/tourpackage-v2-01/javascript/jquery.easing.js
+0 72 0 232428 0 0
+/wp-content/uploads/2016/02/eden-yacht-560x300.jpg
+1 1 0 34280 0 0
+/wp-content/uploads/2016/04/new-flamingo-yacht-cabin-300x225.jpg
+1 2 0 44702 0 0
+/amazon-tours/
+0 37 0 1158260 2 0
+/galapagos-expeditions/page/2/
+0 1 0 31743 0 0
+/wp-content/plugins/LayerSlider/static/js/minicolors/jquery.minicolors.css
+0 5 0 14166 0 0
+/galapagos-information/feed/
+0 18 0 12546 0 0
+/wp-includes/wlwmanifest.xml
+0 3 0 3135 0 0
+/wp-content/uploads/2016/03/la-pinta-yacht.jpg
+1 2 0 876346 0 0
+/tag/ceremony/
+0 2 0 48930 2 1
+/wp-includes/css/editor.min.css
+0 6 0 29671 0 0
+/galapagos-expeditions/
+0 26 0 823081 3 2
+/package-4-columns-2nd-style/feed/
+0 1 0 703 1 0
+/wp-content/uploads/wpcf7_captcha/1417899708.png
+1 1 0 1625 0 0
+/wp-content/themes/tourpackage-v2-01/include/javascript/jquery.confirm.js
+0 7 0 1174 0 0
+/wp-content/uploads/2016/04/la-pinta-yacht-cabin-300x225.jpg
+1 3 0 64503 0 0
+/wp-content/uploads/2016/04/athala-twin-cabin2.jpg
+1 8 0 1069552 0 0
+/package/new-flamigo-yacht/
+0 12 0 524891 5 2
+/wp-content/uploads/2016/04/eclipse-yacht-sundeck-150x150.jpg
+1 2 0 20958 0 0
+/wp-content/uploads/wpcf7_captcha/3593576267.png
+1 1 0 1303 0 0
+/wp-content/uploads/2016/04/Queen-Beatriz-yacht-saloon-150x150.jpg
+1 1 0 10725 0 0
+/wp-content/uploads/2015/08/anahi-yacht-cabin2.jpg
+1 7 0 2033360 0 0
+/wp-content/uploads/2016/04/Queen-Beatriz-yacht-saloon-300x225.jpg
+1 4 0 104696 0 0
+/wp-content/uploads/2016/04/sacha-lodge-explorer-300x225.jpg
+1 1 0 39160 0 0
+/wp-content/uploads/2016/04/new-flamingo-yacht-sundeck-150x150.jpg
+1 1 0 9994 0 0
+/wp-content/uploads/2015/11/Sacha-Lodge.jpg
+1 2 0 1724156 0 0
+/wp-content/plugins/LayerSlider/demos/carousel/preview.png
+1 5 0 36430 0 0
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/slide-d-5-1.png
+1 4 0 2252 0 0
+/wp-content/uploads/wpcf7_captcha/1857350539.png
+1 1 0 1430 0 0
+/wp-content/uploads/2016/04/fragata-yacht-sundeck.jpg
+1 3 0 486309 0 0
+/wp-content/uploads/2016/04/gym-isabela-yacht.jpg
+1 8 0 3766904 0 0
+/wp-content/uploads/2016/03/isabela-yacht-300x225.jpg
+1 5 0 108455 0 0
+/wp-content/uploads/2016/04/otavalo-indigenous-market-300x225.jpg
+1 1 0 43321 0 0
+/wp-content/uploads/2016/03/golondrina-yacht-400x300.jpg
+1 10 0 404290 0 0
+/wp-content/uploads/2015/09/Napo_Wildlife_Center_Ecolodge.jpg
+1 24 0 6352358 0 0
+/wp-content/plugins/LayerSlider/static/skins/v5/skin.css
+0 24 0 75504 0 0
+/wp-content/uploads/wpcf7_captcha/3083181528.png
+1 1 0 1037 0 0
+/personnal-sitemap.xml
+0 7 0 8743 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/admin-panel/OverallElements.png
+1 1 0 3276 0 0
+/wp-content/uploads/wpcf7_captcha/2168715684.png
+1 1 0 1374 0 0
+/wp-content/uploads/2016/04/Yasuni-kichwa-ecolodge-canoe1.jpg
+1 3 0 1414599 0 0
+/galapagos-information/
+0 29 0 1050380 5 7
+/wp-content/uploads/2016/04/fragata-yacht-galapagos-300x225.jpg
+1 2 0 52182 0 0
+/wp-content/uploads/wpcf7_captcha/4160709481.png
+1 1 0 1499 0 0
+/wp-content/uploads/2016/04/Queen-Beatriz-yacht-sundeck.jpg
+1 5 0 2017570 0 0
+/contact/
+0 38 0 1048321 4 3
+/wp-content/uploads/2016/02/Galapagos-land-iguana-400x260.jpg
+1 12 0 516132 0 0
+/testimonial-category-sitemap.xml
+0 4 0 3352 0 0
+/wp-content/uploads/2016/02/yasuni-kichwa-ecolodge.jpg
+1 3 0 931518 0 0
+/wp-content/themes/tourpackage-v2-01/stylesheet/font-awesome/
+0 2 0 0 0 0
+/wp-admin/
+0 4 0 213157 0 0
+/wp-content/uploads/wpcf7_captcha/1234621442.png
+1 1 0 1388 0 0
+/wp-content/uploads/2013/08/anahi-yacht-300x201.jpg
+1 5 0 77190 0 0
+/wp-content/uploads/wpcf7_captcha/2054677660.png
+1 1 0 1394 0 0
+/wp-content/uploads/wpcf7_captcha/2751828833.png
+1 1 0 1576 0 0
+/category/daily-lfe/feed/
+0 1 0 911 1 0
+/wp-content/uploads/2016/04/quito-la-basilica-church-300x225.jpg
+1 1 0 27468 0 0
+/wp-content/uploads/2016/04/athala-bbq-dinning.jpg
+1 6 0 992262 0 0
+/wp-content/uploads/wpcf7_captcha/2743315629.png
+1 1 0 1385 0 0
+/wp-content/uploads/wpcf7_captcha/2744642884.png
+1 1 0 1396 0 0
+/wp-content/uploads/2016/03/angelito-yacht-400x300.jpg
+1 10 0 362060 0 0
+/wp-content/uploads/wpcf7_captcha/2907833924.png
+1 1 0 1236 0 0
+/wp-content/uploads/2015/08/anahi-yacht-cabin-300x200.jpg
+1 5 0 113805 0 0
+/list-style/feed/
+0 1 0 686 1 1
+/wp-content/uploads/2016/03/golondrina-yacht-300x225.jpg
+1 5 0 128610 0 0
+/portfolio/quam-purus/
+0 19 0 558576 2 1
+/wp-content/uploads/2013/08/Eco-Galaxy-Yacht-400x260.jpg
+1 7 0 127162 0 0
+/wp-content/themes/tourpackage-v2-01/javascript/jquery.fitvids.js
+0 72 0 77868 0 0
+/wp-admin/load-styles.php
+0 5 0 454722 0 0
+/wp-content/uploads/wpcf7_captcha/2391009318.png
+1 1 0 1322 0 0
+/wp-content/uploads/wpcf7_captcha/552145533.png
+1 1 0 1247 0 0
+/wp-content/uploads/2016/04/Queen-Beatriz-Yacht-150x150.jpg
+1 2 0 16428 0 0
+/wp-content/uploads/wpcf7_captcha/152881319.png
+1 1 0 1518 0 0
+/wp-content/plugins/LayerSlider/static/skins/v5/skin.png
+1 19 0 128459 0 0
+/wp-content/plugins/jetpack/css/jetpack-icons.min.css
+0 9 0 2877 0 0
+/wp-content/uploads/wpcf7_captcha/1237977013.png
+1 1 0 1390 0 0
+/wp-content/themes/tourpackage-v2-01/include/javascript/post-effects.js
+0 6 0 10938 0 0
+/wp-content/uploads/wpcf7_captcha/1825087863.png
+1 1 0 1018 0 0
+/wp-content/uploads/2016/04/papallacta-thermas-ecuador-150x150.jpg
+1 1 0 10397 0 0
+/wp-content/uploads/2015/08/anahi-yacht-sundeck-300x169.jpg
+1 7 0 123736 0 0
+/wp-content/uploads/2015/11/Sacha-Lodge-300x225.jpg
+1 5 0 113805 0 0
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/feature-layers.png
+1 4 0 8376 0 0
+/wp-content/plugins/mojo-marketplace-wp-plugin/img/mojo-icon-22.png
+1 9 0 11358 0 0
+/wp-content/themes/tourpackage-v2-01/javascript/jquery.nivo.slider.js
+0 33 0 855441 0 0
+/wp-content/uploads/2016/04/golondrina-yacht-lounge-300x225.jpg
+1 2 0 48156 0 0
+/wp-content/uploads/2016/02/Papallacta-400x260.jpg
+1 10 0 416010 0 0
+/portfolio-tag/draft/
+0 1 0 24725 0 0
+/wp-content/uploads/2016/04/fragata-yacht-sundeck-150x150.jpg
+1 1 0 10717 0 0
+/galapagos-island-hopping/
+0 32 0 1065707 1 1
+/xmlsitemap.xml
+0 19 0 61123 0 0
+/wp-content/uploads/wpcf7_captcha/2137532246.png
+1 1 0 1182 0 0
+/wp-content/uploads/wpcf7_captcha/1905887419.png
+1 1 0 1403 0 0
+/wp-content/uploads/2016/04/eclipse-yacht-cabin.jpg
+1 4 0 1270540 0 0
+/wp-content/uploads/2016/04/athala-twin-cabin-300x188.jpg
+1 5 0 94310 0 0
+/wp-content/uploads/wpcf7_captcha/769090890.png
+1 1 0 1539 0 0
+/wp-content/uploads/wpcf7_captcha/602071930.png
+1 1 0 1330 0 0
+/wp-content/uploads/wpcf7_captcha/2952464189.png
+1 1 0 1409 0 0
+/wp-content/themes/tourpackage-v2-01/stylesheet/nivo-slider.css
+0 32 0 64568 0 0
+/gdl-gallery/gallery/
+0 3 0 74862 2 3
+/tag/news/
+0 1 0 24430 1 0
+/package/queen-beatriz-yacht/
+0 22 0 1012945 2 2
+/wp-content/uploads/2016/04/cuicocha-lagoon-ecuador-150x150.jpg
+1 1 0 11150 0 0
+/wp-content/uploads/wpcf7_captcha/3494948341.png
+1 1 0 1237 0 0
+/wp-content/uploads/2015/11/Sacha-Lodge-400x300.jpg
+1 9 0 341766 0 0
+/wp-content/uploads/2016/02/Cotopaxi-volcano-300x225.jpg
+1 5 0 82875 0 0
+/search/1/page/3/
+0 1 0 36164 0 0
+/wp-content/uploads/wpcf7_captcha/3355509867.png
+1 1 0 1361 0 0
+/wp-content/uploads/2016/04/la-pinta-yacht-lounge.jpg
+1 2 0 337554 0 0
+/wp-content/uploads/2016/02/galapagos-frigate-bird-400x300.jpg
+1 7 0 228746 0 0
+/wp-content/uploads/2016/02/gallo-de-la-pe\xc3\xb1a-mindo-400x260.jpg
+1 1 0 37213 0 0
+/package/athala-yacht/
+0 33 0 1659449 2 1
+/wp-content/themes/tourpackage-v2-01/include/javascript/jquery.miniColors.js
+0 1 0 16806 0 0
+/wp-content/uploads/wpcf7_captcha/4023621469.png
+1 1 0 1187 0 0
+/wp-content/uploads/2016/03/santa-cruz-2-yacht.jpg
+1 1 0 187441 0 0
+/wp-content/uploads/wpcf7_captcha/507104516.png
+1 1 0 1369 0 0
+/wp-content/uploads/wpcf7_captcha/1499752601.png
+1 1 0 1383 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/footer-style3.png
+1 1 0 3266 0 0
+/wp-content/themes/tourpackage-v2-01/images/header-background.png
+1 1 0 2800 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/footer-style4.png
+1 1 0 3276 0 0
+/wp-content/uploads/2016/04/Cotopaxi-volcano-Ecuador.jpg
+1 2 0 344432 0 0
+/wp-content/themes/tourpackage-v2-01/images/icon/social-icon/twitter.png
+1 5 0 26155 0 0
+/wp-content/uploads/wpcf7_captcha/4197310492.png
+1 1 0 1338 0 0
+/wp-content/uploads/2016/04/sacha-lodge-explorer-150x150.jpg
+1 1 0 14112 0 0
+/wp-content/plugins/wordpress-seo/css/jquery.qtip.min.css
+0 6 0 9061 0 0
+/wp-content/uploads/2016/04/mindo-butterfly-150x150.jpg
+1 1 0 12912 0 0
+/wp-content/uploads/wpcf7_captcha/3656075142.png
+1 1 0 1280 0 0
+/portfolio/sollicitudin-pharetra-porta/
+0 3 0 89640 2 1
+/wp-content/uploads/2016/02/Otavalo-city-400x300.jpg
+1 9 0 593127 0 0
+/favicon.ico
+0 270 0 0 0 0
+/wp-content/uploads/layerslider/Full-width-demo-slider/right.png
+1 2 0 670 0 0
+/portfolio/ornare-malesuada/
+0 2 0 62242 1 0
+/wp-content/uploads/2016/04/quito-la-compania-church-150x150.jpg
+1 1 0 11396 0 0
+/package/eco-galaxy-yacht/
+0 10 0 435098 2 1
+/wp-content/uploads/2016/04/Queen-Beatriz-yacht-saloon.jpg
+1 4 0 1640740 0 0
+/wp-content/uploads/2015/12/favicon.png
+1 51 0 3445186 0 0
+/wp-includes/js/imgareaselect/imgareaselect.css
+0 7 0 2370 0 0
+/wp-content/uploads/wpcf7_captcha/3349334650.png
+1 1 0 1722 0 0
+/amazon-information/
+0 27 0 1282603 3 7
+/wp-content/uploads/wpcf7_captcha/1051126205.png
+1 1 0 1343 0 0
+/wp-content/uploads/2016/04/sacha-lodge-canopy-walk-300x225.jpg
+1 1 0 31615 0 0
+/wp-content/uploads/2016/04/anakonda-amazon-cruise-suite-300x225.jpg
+1 1 0 20527 0 0
+/wp-content/uploads/2016/04/quilotoa-lagoon-300x225.jpg
+1 1 0 25728 0 0
+/wp-content/uploads/wpcf7_captcha/3677474708.png
+1 1 0 1271 0 0
+/wp-content/uploads/2016/04/eclipse-yacht-cabin-150x150.jpg
+1 2 0 16028 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/both-sidebar.png
+1 6 0 23916 0 0
+/wp-content/uploads/wpcf7_captcha/2536330466.png
+1 1 0 1344 0 0
+/wp-content/uploads/2016/04/new-flamingo-yacht-lounge-300x225.jpg
+1 2 0 39470 0 0
+/wp-content/uploads/2015/11/panecillo-quito-ecuador-300x79.jpg
+1 5 0 43515 0 0
+/package/eclipse-yacht/
+0 9 0 544131 1 1
+/wp-content/uploads/wpcf7_captcha/2643912439.png
+1 1 0 1354 0 0
+/wp-content/uploads/wpcf7_captcha/1187033926.png
+1 1 0 1711 0 0
+/tag/tech/
+0 1 0 24430 1 1
+/wp-content/uploads/2016/04/angelito-yacht-sundeck-150x150.jpg
+1 1 0 12087 0 0
+/package/santa-cruz-ii-yacht/
+0 11 0 576554 2 2
+/wp-content/uploads/wpcf7_captcha/2471578287.png
+1 1 0 1279 0 0
+/wp-includes/css/admin-bar.min.css
+0 36 0 57996 0 0
+/package/galapagos-express-4d-3n/
+0 7 0 246718 3 3
+/wp-content/uploads/wpcf7_captcha/3228248774.png
+1 1 0 1351 0 0
+/wp-content/uploads/wpcf7_captcha/2697904494.png
+1 1 0 1342 0 0
+/wp-content/uploads/2016/03/Anakonda-amazon-cruise-940x400.jpg
+1 23 0 2087250 0 0
+/wp-includes/images/uploader-icons.png
+1 5 0 7780 0 0
+/faq/
+0 26 0 776750 4 3
+/gallery/feed/
+0 1 0 683 1 1
+/wp-admin/admin.php
+0 48 0 8341454 0 0
+/wp-content/uploads/wpcf7_captcha/2525748718.png
+1 1 0 1408 0 0
+/wp-content/uploads/wpcf7_captcha/2829749622.png
+1 1 0 1232 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/footer-style1.png
+1 1 0 3335 0 0
+/wp-content/uploads/wpcf7_captcha/1338921849.png
+1 1 0 1099 0 0
+/faqs/feed/
+0 1 0 680 1 0
+/wp-content/uploads/2015/08/anahi-yacht-sundeck-150x150.jpg
+1 1 0 11040 0 0
+/wp-content/uploads/2016/03/isabela-yacht-150x150.jpg
+1 1 0 8971 0 0
+/wp-content/uploads/wpcf7_captcha/2961994162.png
+1 1 0 1344 0 0
+/wp-content/themes/tourpackage-v2-01/images/top-slider-nav-left.png
+1 20 0 57140 0 0
+/wp-content/uploads/2016/04/aida-maria-yacht-cabin.jpg
+1 3 0 399879 0 0
+/wp-content/uploads/wpcf7_captcha/1670210097.png
+1 1 0 1290 0 0
+/wp-content/uploads/2016/03/santa-cruz-2-yacht-300x189.jpg
+1 5 0 103695 0 0
+/wp-content/uploads/wpcf7_captcha/399485389.png
+1 1 0 1139 0 0
+/wp-content/uploads/wpcf7_captcha/3403590853.png
+1 1 0 1428 0 0
+/tag/business/
+0 1 0 24465 1 1
+/wp-content/uploads/2016/04/Queen-Beatriz-yacht-cabin-150x150.jpg
+1 1 0 8547 0 0
+/wp-content/themes/tourpackage-v2-01/images/icon/light/top-search.png
+1 40 0 118560 0 0
+/wp-content/plugins/mojo-marketplace-wp-plugin/img/mojo-sg-header.png
+1 6 0 65376 0 0
+/wp-content/uploads/2016/03/la-pinta-yacht-300x225.jpg
+1 5 0 110565 0 0
+/wp-content/uploads/2016/04/quito-carondelet-palace.jpg
+1 2 0 648096 0 0
+/wp-content/uploads/2016/04/aida-maria-yacht-lounge-150x150.jpg
+1 1 0 11705 0 0
+/wp-content/uploads/wpcf7_captcha/1859060021.png
+1 1 0 1467 0 0
+/wp-content/uploads/2016/04/eclipse-yacht-lounge.jpg
+1 4 0 895124 0 0
+/wp-content/uploads/2015/11/Sacha-Lodge-150x150.jpg
+1 1 0 8683 0 0
+/social-icon/feed/
+0 1 0 687 1 1
+/wp-content/plugins/wordpress-seo/js/wp-seo-metabox-302.min.js
+0 6 0 8620 0 0
+/tourist-superior-class-yachts/feed/
+0 1 0 705 0 0
+/wp-content/uploads/2015/09/Galaxy-Yacht-double-suite-300x225.jpg
+1 5 0 91940 0 0
+/buttons/feed/
+0 1 0 683 1 0
+/wp-content/uploads/2015/09/Napo_Wildlife_Center_Ecolodge-300x164.jpg
+1 5 0 111165 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/both-sidebar-120.png
+1 1 0 3980 0 0
+/wp-content/uploads/2016/02/yasuni-kichwa-ecolodge-300x225.jpg
+1 5 0 90360 0 0
+/wp-content/uploads/wpcf7_captcha/3950604344.png
+1 1 0 1372 0 0
+/wp-content/plugins/LayerSlider/static/codemirror/addon/fold/foldgutter.js
+0 5 0 10986 0 0
+/package/ecuador-amazon-8d-7n/
+0 8 0 338191 1 2
+/amazon-expeditions/
+0 24 0 665584 5 5
+/wp-content/uploads/wpcf7_captcha/3005092026.png
+1 1 0 1251 0 0
+/wp-content/uploads/2015/09/Eco-Galaxy-Catamaran-Suite-300x200.jpg
+1 5 0 104380 0 0
+/wp-content/plugins/LayerSlider/static/css/global.css
+0 9 0 36003 0 0
+/wp-content/uploads/2016/04/mindo-butterfly.jpg
+1 2 0 402040 0 0
+/wp-content/uploads/2016/04/eclipse-yacht-sundeck-300x225.jpg
+1 3 0 83463 0 0
+/wp-content/uploads/2016/04/eden-yacht-galapagos-150x150.jpg
+1 1 0 8622 0 0
+/wp-content/uploads/2016/03/angelito-yacht-400x260.jpg
+1 13 0 433355 0 0
+/wp-content/uploads/2016/04/golondrina-yacht-sundeck-300x225.jpg
+1 2 0 44816 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/panel-menu-bg.png
+1 1 0 2898 0 0
+/wp-content/uploads/wpcf7_captcha/3661689161.png
+1 1 0 1501 0 0
+/full-thumbnail-left-sidebar/feed/
+0 1 0 703 1 0
+/wp-content/themes/tourpackage-v2-01/include/images/info.png
+1 1 0 3333 0 0
+/wp-content/plugins/LayerSlider/static/css/
+0 2 0 0 0 0
+/wp-content/uploads/2016/04/Queen-Beatriz-yacht-sundeck-300x200.jpg
+1 1 0 22669 0 0
+/tag/conferrence/
+0 1 0 24493 1 1
+/wp-content/themes/tourpackage-v2-01/include/stylesheet/gdl-panel.css
+0 1 0 11040 0 0
+/wp-content/uploads/2016/04/Queen-Beatriz-yacht-sundeck-300x225.jpg
+1 4 0 107024 0 0
+/tourist-economic-class/feed/
+0 2 0 1396 1 1
+/wp-content/uploads/2016/04/sacha-lodge-monkey-300x225.jpg
+1 1 0 23265 0 0
+/wp-content/uploads/2016/04/fragata-yacht-galapagos-150x150.jpg
+1 1 0 10371 0 0
+/wp-content/uploads/wpcf7_captcha/1556956777.png
+1 1 0 1153 0 0
+/wp-content/uploads/wpcf7_captcha/2787560106.png
+1 1 0 1488 0 0
+/wp-content/uploads/wpcf7_captcha/542379852.png
+1 1 0 1333 0 0
+/wp-content/uploads/2016/04/santa-cruz-ii-yacht-sundeck.jpg
+1 2 0 386592 0 0
+/wp-content/uploads/wpcf7_captcha/3017819301.png
+1 1 0 1281 0 0
+/amazon-information/feed/
+0 17 0 11798 0 0
+/wp-content/uploads/2016/04/new-flamingo-yacht-cabin.jpg
+1 2 0 161882 0 0
+/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js
+0 73 0 590660 0 0
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/mouse-70x150.png
+1 4 0 11320 0 0
+/wp-content/uploads/2016/04/santa-cruz-ii-yacht-cabin.jpg
+1 2 0 271988 0 0
+/wp-content/uploads/wpcf7_captcha/2263113447.png
+1 1 0 1037 0 0
+/category/blog/
+0 2 0 48938 2 0
+/portfolio/justo-malesuada-ullamcorper/
+0 19 0 565174 2 0
+/wp-content/uploads/2016/04/santa-cruz-ii-yacht-150x150.jpg
+1 2 0 19628 0 0
+/wp-content/uploads/2016/04/papallacta-thermas-150x150.jpg
+1 1 0 10820 0 0
+/wp-content/uploads/wpcf7_captcha/1242042871.png
+1 1 0 1371 0 0
+/wp-content/uploads/2016/04/athala-bbq-dinning-150x150.jpg
+1 1 0 11326 0 0
+/wp-content/uploads/2015/08/anahi-yacht-saloon-300x200.jpg
+1 7 0 137842 0 0
+/wp-content/themes/tourpackage-v2-01/
+0 2 0 0 0 0
+/wp-content/uploads/2016/02/yasuni-kichwa-ecolodge-400x260.jpg
+1 14 0 361508 0 0
+/wp-content/uploads/2016/04/cuenca-cathedral-300x225.jpg
+1 1 0 36174 0 0
+/wp-content/uploads/wpcf7_captcha/3392930604.png
+1 1 0 1177 0 0
+/creating-gallery/feed/
+0 1 0 692 1 0
+/wp-admin/edit.php
+0 89 0 7917587 0 0
+/wp-content/uploads/2016/04/devils-nose-train-300x225.jpg
+1 1 0 26455 0 0
+/wp-content/uploads/2016/04/aida-maria-yacht-cabin-300x225.jpg
+1 2 0 39016 0 0
+/wp-content/uploads/2016/04/chimborazo-volcano-volcano-avenue-300x225.jpg
+1 1 0 28041 0 0
+/wp-content/uploads/2016/04/Queen-Beatriz-yacht-saloon-300x200.jpg
+1 1 0 21934 0 0
+/wp-content/uploads/2016/04/la-pinta-yacht-observation-deck.jpg
+1 2 0 467180 0 0
+/wp-content/themes/tourpackage-v2-01/images/menu-gradient.png
+1 40 0 62800 0 0
+/wp-content/plugins/LayerSlider/static/img/not_set.png
+1 5 0 22450 0 0
+/wp-content/uploads/layerslider/Full-width-demo-slider/left.png
+1 2 0 678 0 0
+/wp-content/plugins/wordpress-seo/js/wp-seo-shortcode-plugin-305.min.js
+0 6 0 3639 0 0
+/wp-content/uploads/2013/08/anahi-yacht-400x300.jpg
+1 12 0 288508 0 0
+/wp-content/uploads/2016/04/new-flamingo-yacht-lounge.jpg
+1 2 0 189316 0 0
+/portfolio-tag-sitemap.xml
+0 4 0 7860 0 0
+/wp-content/uploads/2016/04/quito-la-basilica-church.jpg
+1 2 0 374582 0 0
+/wp-content/uploads/wpcf7_captcha/2792960852.png
+1 1 0 1324 0 0
+/category/conference/
+0 3 0 73569 3 0
+/wp-content/uploads/2016/03/angelito-yacht-300x225.jpg
+1 5 0 112310 0 0
+/wp-content/uploads/wpcf7_captcha/721178509.png
+1 1 0 1176 0 0
+/wp-content/uploads/wpcf7_captcha/2437920678.png
+1 1 0 1402 0 0
+/wp-content/uploads/wpcf7_captcha/1095589338.png
+1 1 0 1289 0 0
+/wp-content/themes/tourpackage-v2-01/images/icon/light/accordion-title.png
+1 27 0 76032 0 0
+/wp-content/uploads/2016/04/aida-maria-yacht-cabin-150x150.jpg
+1 1 0 6919 0 0
+/creating-blog/feed/
+0 1 0 689 1 0
+/portfolio-sitemap.xml
+0 7 0 16170 0 0
+/wp-content/uploads/2016/04/athala-twin-cabin-150x150.jpg
+1 1 0 8566 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/edit-item.png
+1 1 0 3092 0 0
+/wp-content/uploads/wpcf7_captcha/4128088132.png
+1 1 0 1244 0 0
+/wp-includes/css/dashicons.min.css
+0 32 0 174588 0 0
+/wp-content/uploads/2016/04/sundeck-isabela-yacht-300x225.jpg
+1 5 0 135050 0 0
+/wp-content/plugins/theme-blvd-responsive-google-maps/assets/jquery.gmap.min.js
+0 72 0 107212 0 0
+/category/holiday/feed/
+0 1 0 907 1 1
+/wp-content/uploads/2016/04/santa-cruz-ii-yacht-cabin-150x150.jpg
+1 2 0 14960 0 0
+/wp-content/themes/tourpackage-v2-01/include/stylesheet/image-picker.css
+0 1 0 3552 0 0
+/wp-content/uploads/2015/09/Galapagos-Islands-Bartolome-300x136.jpg
+1 5 0 66660 0 0
+/wp-content/uploads/2015/12/lonely-george.jpg
+1 21 0 3491733 0 0
+/galapagos-expeditions/feed/
+0 2 0 1394 1 1
+/wp-content/uploads/wpcf7_captcha/2756693707.png
+1 1 0 1337 0 0
+/wp-content/uploads/2016/04/eden-yacht-galapagos-300x225.jpg
+1 2 0 42760 0 0
+/wp-content/themes/tourpackage-v2-01/javascript/superfish.js
+0 72 0 166852 0 0
+/wp-content/uploads/2015/11/ecuador-flag-150x150.jpg
+1 1 0 4144 0 0
+/wp-content/uploads/2016/04/quito-la-basilica-church-150x150.jpg
+1 1 0 10871 0 0
+/package/eden-yacht/
+0 9 0 430101 0 0
+/wp-content/uploads/wpcf7_captcha/3104993194.png
+1 1 0 1291 0 0
+/wp-includes/js/comment-reply.min.js
+0 34 0 13626 0 0
+/wp-content/plugins/mojo-marketplace-wp-plugin/css/style.css
+0 9 0 19548 0 0
+/wp-content/uploads/wpcf7_captcha/975480833.png
+1 1 0 1284 0 0
+/wp-content/uploads/wpcf7_captcha/2451014443.png
+1 1 0 1250 0 0
+/light-box-frame/feed/
+0 1 0 691 1 1
+/wp-content/uploads/wpcf7_captcha/3280317675.png
+1 1 0 1363 0 0
+/wp-content/uploads/2016/02/Galapagos-land-iguana-300x225.jpg
+1 5 0 144700 0 0
+/wp-content/uploads/2016/04/santa-cruz-ii-yacht-jacuzzi.jpg
+1 2 0 807186 0 0
+/wp-content/uploads/2016/04/angelito-yacht-sundeck.jpg
+1 3 0 931872 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 75 0 201881 0 0
+/wp-content/uploads/wpcf7_captcha/2103914253.png
+1 1 0 1320 0 0
+/wp-content/uploads/2016/04/fragata-yacht-lounge-300x225.jpg
+1 2 0 62454 0 0
+/wp-content/uploads/wpcf7_captcha/775113845.png
+1 1 0 1472 0 0
+/amazon-tours/feed/
+0 3 0 2064 0 0
+/wp-content/uploads/wpcf7_captcha/2182872159.png
+1 1 0 1497 0 0
+/wp-content/uploads/2016/04/athala-twin-cabin2-150x150.jpg
+1 1 0 9852 0 0
+/wp-content/uploads/2016/04/eden-yacht-sundeck.jpg
+1 2 0 240174 0 0
+/wp-content/uploads/2015/08/anahi-yacht1-300x201.jpg
+1 5 0 77190 0 0
+/wp-content/plugins/wordpress-seo/css/dist/yoast-seo/yoast-seo-310.min.css
+0 6 0 9785 0 0
+/wp-content/uploads/2016/04/Queen-Beatriz-Yacht.jpg
+1 5 0 1718345 0 0
+/wp-content/uploads/2016/03/aida-maria-yacht-400x300.jpg
+1 10 0 343460 0 0
+/toggle-boxes/feed/
+0 1 0 688 0 1
+/wp-admin/post-new.php
+0 1 0 173020 0 0
+/tag/agency/
+0 1 0 24447 1 1
+/tag/computer/
+0 1 0 24466 1 0
+/wp-content/uploads/wpcf7_captcha/446154236.png
+1 1 0 1307 0 0
+/wp-content/uploads/wpcf7_captcha/2483994174.png
+1 1 0 1455 0 0
+/wp-content/plugins/LayerSlider/static/img/blank.gif
+1 28 0 1204 0 0
+/wp-content/uploads/2016/04/santa-cruz-ii-yacht-jacuzzi-150x150.jpg
+1 2 0 18514 0 0
+/wp-content/uploads/2016/04/la-pinta-yacht-observation-deck-300x225.jpg
+1 3 0 85416 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/right-sidebar.png
+1 6 0 24282 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/admin-panel/Translator.png
+1 1 0 3380 0 0
+/wp-content/themes/tourpackage-v2-01/javascript/jquery.flexslider.js
+0 1 0 42756 0 0
+/wp-content/uploads/2016/04/athala-bbq-dinning-300x225.jpg
+1 5 0 134325 0 0
+/wp-content/plugins/theme-blvd-responsive-google-maps/assets/
+0 2 0 0 0 0
+/wp-content/uploads/2015/12/lonely-george-400x300.jpg
+1 8 0 389672 0 0
+/wp-content/plugins/wordpress-seo/js/wp-seo-replacevar-plugin-310.min.js
+0 6 0 2776 0 0
+/wp-content/uploads/layerslider/Full-width-demo-slider/fw-1-300x70.jpg
+1 2 0 3440 0 0
+/wp-content/uploads/2016/03/santa-cruz-2-yacht-150x150.jpg
+1 1 0 9475 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/left-sidebar-120.png
+1 1 0 3932 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/button-green-gradient.png
+1 7 0 20293 0 0
+/wp-content/uploads/2015/08/anahi-yacht-sundeck.jpg
+1 4 0 518772 0 0
+/wp-content/themes/tourpackage-v2-01/stylesheet/font-awesome/font-awesome.css
+0 69 0 951720 0 0
+/wp-content/uploads/2016/04/Otavalo-indigenous-market-300x225.jpg
+1 1 0 41201 0 0
+/wp-content/uploads/wpcf7_captcha/2479144144.png
+1 1 0 1400 0 0
+/wp-content/uploads/2016/04/chimborazo-volcano-volcano-avenue-150x150.jpg
+1 1 0 10379 0 0
+/wp-content/uploads/2016/04/new-flamingo-yacht-lounge-150x150.jpg
+1 1 0 7597 0 0
+/wp-content/uploads/2016/04/eden-yacht-sundeck-300x225.jpg
+1 2 0 65010 0 0
+/category/uncategorized/
+0 5 0 122750 5 1
+/wp-content/themes/tourpackage-v2-01/stylesheet/fancybox.css
+0 76 0 137865 0 0
+/galapagos-cruises/page/2/
+0 8 0 313165 0 0
+/wp-content/uploads/2015/09/Eco-Galaxy-Catamaran-Sundeck.jpg
+1 4 0 1080188 0 0
+/wp-content/uploads/wpcf7_captcha/97902083.png
+1 1 0 1157 0 0
+/wp-content/uploads/2016/04/eden-yacht-cabin.jpg
+1 2 0 150970 0 0
+/wp-content/plugins/LayerSlider/static/skins/v5/loading.gif
+1 16 0 70496 0 0
+/wp-content/uploads/2015/09/Galaxy-Yacht-sundeck.jpg
+1 4 0 1064060 0 0
+/wp-content/plugins/wordpress-seo/css/snippet-310.min.css
+0 6 0 388 0 0
+/wp-content/plugins/jetpack/css/jetpack-banners.min.css
+0 4 0 15800 0 0
+/wp-content/uploads/2016/02/galapagos-sea-lion-400x260.jpg
+1 13 0 447083 0 0
+/wp-content/themes/tourpackage-v2-01/include/javascript/edit-box.js
+0 1 0 4964 0 0
+/portfolio/dapibus-euismod-tristique-vestibulum/
+0 3 0 89667 2 0
+/wp-content/uploads/wpcf7_captcha/1796003166.png
+1 1 0 1302 0 0
+/wp-content/plugins/wordpress-seo/css/metabox-310.min.css
+0 6 0 8246 0 0
+/wp-content/uploads/2016/02/fragata-yacht-400x260.jpg
+1 10 0 385080 0 0
+/wp-content/uploads/2016/03/Anakonda-amazon-cruise-150x150.jpg
+1 1 0 9035 0 0
+/portfolio-tag/prints/
+0 2 0 55574 1 1
+/wp-content/plugins/wordpress-seo/images/Yoast_SEO_Icon.svg
+0 6 0 1055 0 0
+/wp-content/uploads/wpcf7_captcha/2318959597.png
+1 1 0 1182 0 0
+/wp-content/uploads/2016/04/Yasuni-kichwa-ecolodge-tourism.jpg
+1 3 0 1565709 0 0
+/wp-login.php
+0 7544 0 36513168 34 23
+/wp-content/themes/tourpackage-v2-01/include/images/gdl-meta-bg.png
+1 8 0 498238 0 0
+/wp-content/uploads/wpcf7_captcha/1751235514.png
+1 1 0 1459 0 0
+/wp-content/themes/tourpackage-v2-01/images/icon/light/li-arrow.png
+1 27 0 1117422 0 0
+/wp-content/plugins/LayerSlider/static/codemirror/addon/fold/foldcode.js
+0 5 0 7173 0 0
+/wp-content/uploads/2016/02/Otavalo-city-300x200.jpg
+1 5 0 185920 0 0
+/wp-content/uploads/wpcf7_captcha/4278042328.png
+1 1 0 1487 0 0
+/wp-content/themes/tourpackage-v2-01/images/icon/social-icon/facebook.png
+1 5 0 22070 0 0
+/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+1 28 0 23716 0 0
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+0 79 0 40811 0 0
+/wp-content/uploads/wpcf7_captcha/3437829238.png
+1 1 0 1240 0 0
+/wp-admin/css/login.min.css
+0 7 0 107905 0 0
+/package/galaxy-yacht/
+0 18 0 788097 6 8
+/wp-content/uploads/2016/02/eden-yacht-400x260.jpg
+1 11 0 265969 0 0
+/wp-content/uploads/wpcf7_captcha/3840822396.png
+1 1 0 1272 0 0
+/wp-content/uploads/2016/04/jacuzzi-isabela-yacht-150x150.jpg
+1 1 0 10882 0 0
+/wp-content/uploads/wpcf7_captcha/2115808126.png
+1 1 0 1375 0 0
+/wp-content/uploads/2016/02/galapagos-sea-lion-300x225.jpg
+1 5 0 120115 0 0
+/wp-content/uploads/2016/03/new-flamingo-yacht.jpg
+1 2 0 223994 0 0
+/wp-content/uploads/wpcf7_captcha/469449967.png
+1 1 0 1431 0 0
+/wp-content/uploads/2016/04/Queen-Beatriz-yacht-cabin-300x225.jpg
+1 4 0 81344 0 0
+/wp-content/uploads/2016/03/angelito-yacht-150x150.jpg
+1 1 0 9327 0 0
+/wp-content/uploads/wpcf7_captcha/55925145.png
+1 1 0 1334 0 0
+/wp-content/plugins/www-xml-sitemap-generator-org/scripts.js
+0 6 0 7812 0 0
+/tag/people/
+0 4 0 97792 4 2
+/wp-content/uploads/wpcf7_captcha/1375129811.png
+1 1 0 1259 0 0
+/wp-content/uploads/2016/04/quito-san-francisco-church-150x150.jpg
+1 1 0 9971 0 0
+/personnel-shortcode/feed/
+0 1 0 695 1 0
+/wp-content/uploads/2015/09/San_Bartolome_Island_Galapagos_Islands-300x164.jpg
+1 5 0 109130 0 0
+/package/galapagos-evolution-5d-4n/
+0 4 0 144722 1 0
+/wp-content/uploads/2016/04/angelito-yacht-lounge-300x225.jpg
+1 2 0 57336 0 0
+/wp-includes/js/jquery/jquery.js
+0 73 0 2686656 0 0
+/wp-content/uploads/2016/03/golondrina-yacht-400x260.jpg
+1 13 0 457496 0 0
+/wp-content/uploads/2016/04/fragata-yacht-lounge.jpg
+1 3 0 606786 0 0
+/wp-content/themes/tourpackage-v2-01/stylesheet/ie7-style.css
+0 2 0 1934 0 0
+/wp-content/uploads/2016/04/fragata-yacht-cabin-300x225.jpg
+1 2 0 50942 0 0
+/wp-content/uploads/wpcf7_captcha/2373142794.png
+1 1 0 1258 0 0
+/wp-content/uploads/2016/04/fragata-yacht-cabin.jpg
+1 3 0 475410 0 0
+/wp-content/uploads/2015/09/Eco-Galaxy-Catamaran-Saloon.jpg
+1 6 0 1588674 0 0
+/wp-content/plugins/wordpress-seo/css/featured-image.min.css
+0 6 0 300 0 0
+/wp-content/uploads/wpcf7_captcha/629146099.png
+1 1 0 1397 0 0
+/wp-content/uploads/2015/09/Galaxy-Galapagos-Yacht-300x225.jpg
+1 7 0 109374 0 0
+/wp-content/uploads/2016/04/anakonda-amazon-cruise-suite2.jpg
+1 2 0 194826 0 0
+/wp-content/plugins/wordpress-seo/images/question-mark.png
+1 6 0 1794 0 0
+/wp-content/uploads/2015/09/Galaxy-Galapagos-Yacht.jpg
+1 5 0 1448800 0 0
+/wp-content/uploads/wpcf7_captcha/3643411208.png
+1 1 0 1375 0 0
+/wp-content/uploads/2016/04/eden-yacht-lounge-150x150.jpg
+1 1 0 11686 0 0
+/wp-content/uploads/2015/09/Galaxy-Yacht-living-room-300x225.jpg
+1 5 0 138430 0 0
+/wp-content/uploads/2015/09/Eco-Galaxy-Catamaran-Suite1-300x225.jpg
+1 5 0 129735 0 0
+/wp-content/uploads/wpcf7_captcha/4149602313.png
+1 1 0 1470 0 0
+/wp-content/uploads/2016/02/discovering-galapagos-logo.png
+1 38 0 2887848 0 0
+/wp-content/uploads/wpcf7_captcha/1193753956.png
+1 1 0 1071 0 0
+/wp-content/uploads/wpcf7_captcha/2779890363.png
+1 1 0 1421 0 0
+/wp-content/plugins/wordpress-seo/css/edit-page-302.min.css
+0 6 0 525 0 0
+/wp-content/uploads/wpcf7_captcha/3310069188.png
+1 1 0 1362 0 0
+/wp-content/uploads/wpcf7_captcha/130518852.png
+1 1 0 1357 0 0
+/wp-content/plugins/contact-form-7/includes/js/scripts.js
+0 73 0 324800 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/select-box.png
+1 6 0 22626 0 0
+/wp-content/uploads/2016/02/casa-del-suizo-lodge-300x199.jpg
+1 5 0 97040 0 0
+/wp-content/uploads/2016/04/quito-the-middle-of-the-world-monument-150x150.jpg
+1 1 0 9460 0 0
+/wp-content/themes/tourpackage-v2-01/stylesheet/jquery.fancybox-thumbs.css
+0 68 0 24990 0 0
+/wp-content/plugins/LayerSlider/static/skins/v5/nothumb.png
+1 4 0 20184 0 0
+/wp-content/uploads/2016/03/Anakonda-amazon-cruise-300x225.jpg
+1 5 0 112460 0 0
+/wp-content/uploads/wpcf7_captcha/1538076457.png
+1 1 0 1178 0 0
+/wp-content/plugins/LayerSlider/demos/v5/preview.png
+1 5 0 56705 0 0
+/wp-content/uploads/wpcf7_captcha/389214241.png
+1 1 0 1420 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 74 0 410088 0 0
+/tourist-superior-class-yachts/
+0 40 0 1231241 3 1
+/wp-content/uploads/wpcf7_captcha/34966975.png
+1 1 0 1336 0 0
+/wp-content/uploads/2016/04/Queen-Beatriz-Yacht-300x225.jpg
+1 4 0 80196 0 0
+/wp-content/uploads/wpcf7_captcha/3033368977.png
+1 1 0 1457 0 0
+/wp-content/themes/tourpackage-v2-01/images/top-bar-background.png
+1 40 0 112000 0 0
+/price_table/advanced/
+0 1 0 27225 0 0
+/wp-content/uploads/2016/02/gallo-de-la-peña-mindo-300x225.jpg
+1 5 0 142910 0 0
+/wp-content/uploads/2016/02/gallo-de-la-peña-mindo-400x260.jpg
+1 10 0 372130 0 0
+/wp-content/uploads/2016/04/eclipse-yacht-lounge-300x225.jpg
+1 3 0 95640 0 0
+/wp-content/uploads/2016/03/santa-cruz-2-yacht-400x260.jpg
+1 13 0 435071 0 0
+/package/golodrina-yacht/
+0 13 0 628534 0 1
+/wp-content/uploads/2016/04/eden-yacht-lounge-300x225.jpg
+1 2 0 57368 0 0
+/wp-content/uploads/2016/04/athala-twin-cabin1-150x150.jpg
+1 1 0 9517 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/panel-menu-head-bg.png
+1 1 0 4100 0 0
+/portfolio-3-columns-with-content/feed/
+0 1 0 708 1 1
+/testimonial-sitemap.xml
+0 7 0 11473 0 0
+/wp-content/plugins/wordpress-seo/js/jquery.qtip.min.js
+0 6 0 88506 0 0
+/wp-content/uploads/2013/08/Queen-Beatriz-Cruise-400x300.jpg
+1 10 0 303200 0 0
+/wp-content/uploads/2016/02/gallo-de-la-peña-mindo-400x300.jpg
+1 9 0 381249 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/delete-item.png
+1 1 0 3133 0 0
+/wp-content/uploads/wpcf7_captcha/152571758.png
+1 1 0 1345 0 0
+/wp-content/themes/tourpackage-v2-01/javascript/supersub.js
+0 72 0 94808 0 0
+/wp-content/uploads/wpcf7_captcha/2168568958.png
+1 1 0 1281 0 0
+/wp-content/uploads/wpcf7_captcha/2308421802.png
+1 1 0 1424 0 0
+/wp-content/uploads/2016/04/otavalo-indigenous-300x225.jpg
+1 1 0 29326 0 0
+/wp-content/themes/tourpackage-v2-01/stylesheet/font-awesome/fontawesome-webfont.ttf
+0 3 0 237228 0 0
+/wp-includes/images/spinner.gif
+1 5 0 20810 0 0
+/wp-content/uploads/wpcf7_captcha/1959232813.png
+1 1 0 1250 0 0
+/wp-content/uploads/2016/04/quito-the-middle-of-the-world-monument-300x225.jpg
+1 1 0 24725 0 0
+/wp-content/themes/tourpackage-v2-01/javascript/hoverIntent.js
+0 72 0 141568 0 0
+/wp-content/themes/tourpackage-v2-01/style.css
+0 83 0 2792010 0 0
+/wp-content/uploads/wpcf7_captcha/3418380925.png
+1 1 0 1325 0 0
+/luxury-class-yachts/
+0 60 0 1976052 6 3
+/portfolio-tag/business-card/
+0 4 0 102264 3 2
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/feature-mobile.png
+1 4 0 4716 0 0
+/wp-includes/js/thickbox/loadingAnimation.gif
+1 8 0 121904 0 0
+/wp-content/uploads/2015/12/amazon-bird.jpg
+1 22 0 6118953 0 0
+/xmlrpc.php
+0 269 0 15903233 729 246
+/wp-content/plugins/LayerSlider/static/js/greensock.js
+0 74 0 1537290 0 0
+/social-icon/
+0 6 0 187452 5 2
+/search/1/
+0 1 0 35522 0 0
+/video-2/feed/
+0 1 0 683 1 0
+/wp-content/uploads/wpcf7_captcha/2244926656.png
+1 1 0 1210 0 0
+/wp-content/uploads/wpcf7_captcha/477385398.png
+1 1 0 1400 0 0
+/tag/travel/
+0 2 0 48896 2 1
+/wp-content/uploads/2016/04/golondrina-yacht-cabin-150x150.jpg
+1 1 0 7022 0 0
+/wp-content/uploads/wpcf7_captcha/3859742127.png
+1 1 0 1111 0 0
+/wp-content/uploads/wpcf7_captcha/682403608.png
+1 1 0 1430 0 0
+/wp-content/uploads/wpcf7_captcha/3269999424.png
+1 1 0 1356 0 0
+/wp-content/uploads/2016/03/golondrina-yacht-150x150.jpg
+1 1 0 10542 0 0
+/wp-content/uploads/2013/08/icon-phone.png
+1 2 0 2502 0 0
+/wp-content/uploads/2016/04/Queen-Beatriz-yacht-cabin-300x200.jpg
+1 1 0 17556 0 0
+/wp-content/uploads/2016/02/eden-yacht-300x178.jpg
+1 5 0 73795 0 0
+/wp-content/uploads/2016/02/Galapagos-Islands-940x400.jpg
+1 23 0 2546330 0 0
+/wp-content/uploads/2016/04/sacha-lodge-canopy-walk-150x150.jpg
+1 1 0 11797 0 0
+/wp-content/uploads/wpcf7_captcha/2601807433.png
+1 1 0 1415 0 0
+/wp-content/uploads/2016/03/new-flamingo-yacht-300x225.jpg
+1 5 0 130030 0 0
+/wp-content/uploads/2016/04/angelito-yacht-lounge.jpg
+1 3 0 813936 0 0
+/wp-content/plugins/wordpress-seo/css/adminbar-302.min.css
+0 40 0 1485 0 0
+/wp-content/uploads/2015/09/Galaxy-Yacht-400x260.jpg
+1 11 0 361856 0 0
+/wp-content/uploads/2015/09/Eco-Galaxy-Catamaran-300x225.jpg
+1 5 0 88340 0 0
+/wp-content/uploads/wpcf7_captcha/3379979793.png
+1 1 0 1647 0 0
+/expedition-packages/feed/
+0 1 0 695 0 0
+/wp-content/uploads/2015/08/anahi-yacht-cabin2-150x150.jpg
+1 1 0 10899 0 0
+/wp-admin/images/wordpress-logo.svg
+0 6 0 6084 0 0
+/wp-content/uploads/wpcf7_captcha/705579279.png
+1 1 0 1245 0 0
+/wp-content/uploads/2016/04/eden-yacht-lounge.jpg
+1 2 0 201950 0 0
+/portfolio-category-sitemap.xml
+0 4 0 4856 0 0
+/wp-content/themes/tourpackage-v2-01/javascript/jquery.fancybox-media.js
+0 72 0 85372 0 0
+/wp-content/uploads/2016/03/athala-yacht-300x225.jpg
+1 6 0 136842 0 0
+/wp-content/uploads/2016/04/jacuzzi-isabela-yacht-300x225.jpg
+1 5 0 133655 0 0
+/wp-content/uploads/2015/12/lonely-george-300x136.jpg
+1 5 0 94545 0 0
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/slide-d-5-4.png
+1 5 0 3720 0 0
+/wp-content/plugins/jetpack/css/dashboard-widget.css
+0 4 0 12520 0 0
+/package/isabela-yacht/
+0 13 0 668525 1 2
+/wp-content/uploads/wpcf7_captcha/895873124.png
+1 1 0 1323 0 0
+/wp-content/uploads/2016/04/papallacta-thermas-300x225.jpg
+1 1 0 28579 0 0
+/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js
+0 72 0 426944 0 0
+/wp-content/uploads/2016/02/Galapagos-land-iguana-400x300.jpg
+1 7 0 339654 0 0
+/wp-content/uploads/2016/04/eclipse-yacht-cabin-300x225.jpg
+1 3 0 57780 0 0
+/wp-content/themes/tourpackage-v2-01/images/icon/social-icon-m/facebook.png
+1 33 0 145662 0 0
+/wp-content/uploads/2015/08/anahi-yacht-cabin2-300x200.jpg
+1 5 0 111690 0 0
+/wp-content/uploads/2013/08/Eco-Galaxy-Yacht-400x300.jpg
+1 10 0 199890 0 0
+/wp-content/plugins/theme-blvd-responsive-google-maps/assets/style.css
+0 75 0 1628 0 0
+/search/1/page/2/
+0 1 0 36015 0 0
+/wp-content/uploads/2016/04/fragata-yacht-galapagos.jpg
+1 3 0 743607 0 0
+/wp-content/uploads/wpcf7_captcha/111240827.png
+1 1 0 1288 0 0
+/wp-content/uploads/2015/09/Galaxy-Yacht-double-suite.jpg
+1 4 0 495768 0 0
+/contact/feed/
+0 3 0 2049 0 0
+/wp-content/uploads/wpcf7_captcha/3659342099.png
+1 1 0 1272 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/nav-first.png
+1 1 0 3101 0 0
+/wp-content/uploads/2016/04/sacha-lodge-monkey-150x150.jpg
+1 1 0 9918 0 0
+/wp-content/uploads/wpcf7_captcha/370908582.png
+1 1 0 1343 0 0
+/wp-content/uploads/wpcf7_captcha/4201644423.png
+1 1 0 1377 0 0
+/wp-content/uploads/2016/03/Anakonda-amazon-cruise-400x300.jpg
+1 9 0 329337 0 0
+/wp-content/uploads/2016/04/eclipse-yacht-sundeck.jpg
+1 4 0 1935248 0 0
+/wp-content/themes/tourpackage-v2-01/include/javascript/page-dragging.js
+0 1 0 17393 0 0
+/wp-content/uploads/2016/04/santa-cruz-ii-yacht-300x225.jpg
+1 3 0 72948 0 0
+/wp-content/uploads/wpcf7_captcha/1801422659.png
+1 1 0 1287 0 0
+/wp-content/uploads/wpcf7_captcha/2940812326.png
+1 1 0 1238 0 0
+/amazon-expeditions/feed/
+0 1 0 694 0 0
+/
+0 185 0 8847850 233 80
+/package-2-columns/feed/
+0 1 0 693 1 1
+/wp-content/plugins/LayerSlider/static/skins/preview/skin.png
+1 1 0 7930 0 0
+/wp-content/uploads/wpcf7_captcha/1395636382.png
+1 1 0 1448 0 0
+/wp-content/uploads/wpcf7_captcha/1646315469.png
+1 1 0 1341 0 0
+/portfolio-tag/print/
+0 1 0 24828 0 0
+/wp-content/uploads/2015/11/ecuador-flag-300x54.jpg
+1 5 0 24400 0 0
+/wp-content/uploads/2016/04/la-pinta-yacht-cabin-150x150.jpg
+1 2 0 17438 0 0
+/wp-content/uploads/wpcf7_captcha/3889316874.png
+1 1 0 1486 0 0
+/wp-content/uploads/2016/04/la-pinta-yacht-cabin.jpg
+1 2 0 174684 0 0
+/wp-content/uploads/wpcf7_captcha/2305056820.png
+1 1 0 1118 0 0
+/wp-content/uploads/2016/04/eclipse-yacht-400x260.jpg
+1 6 0 149964 0 0
+/wp-content/uploads/2016/02/eden-yacht-400x300.jpg
+1 10 0 272240 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/check-list2.png
+1 1 0 1794 0 0
+/wp-content/uploads/wpcf7_captcha/3089201588.png
+1 1 0 1470 0 0
+/wp-content/uploads/2016/04/aida-maria-yacht-lounge.jpg
+1 3 0 540402 0 0
+/wp-content/uploads/2016/03/san-francisco-church.jpg
+1 22 0 11955659 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/admin-panel-logo.png
+1 1 0 3211 0 0
+/wp-content/uploads/2016/03/aida-maria-yacht-400x260.jpg
+1 14 0 436772 0 0
+/package/angelito-yacht/
+0 16 0 892880 3 3
+/wp-content/uploads/2016/04/papallacta-thermas-ecuador-300x225.jpg
+1 1 0 26972 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/left-sidebar.png
+1 6 0 23610 0 0
+/wp-content/uploads/2016/02/casa-del-suizo-lodge-400x300.jpg
+1 8 0 274224 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.css
+0 7 0 15603 0 0
+/wp-content/plugins/LayerSlider/static/img/slider_preview.jpg
+1 5 0 58950 0 0
+/wp-content/uploads/2016/04/otavalo-indigenous-market.jpg
+1 1 0 569018 0 0
+/wp-content/uploads/wpcf7_captcha/1862093271.png
+1 1 0 1182 0 0
+/wp-content/uploads/2013/08/Queen-Beatriz-Cruise-300x174.jpg
+1 5 0 78290 0 0
+/wp-content/uploads/2016/03/isabela-yacht.jpg
+1 8 0 2864328 0 0
+/wp-content/uploads/2016/04/golondrina-yacht-lounge-150x150.jpg
+1 1 0 9721 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/admin-panel/FontStyle.png
+1 1 0 3264 0 0
+/wp-content/uploads/2015/09/Galaxy-Yacht-300x144.jpg
+1 7 0 76020 0 0
+/wp-content/uploads/wpcf7_captcha/1460546124.png
+1 1 0 1316 0 0
+/wp-content/uploads/2016/04/sacha-lodge-canopy-walk.jpg
+1 2 0 566502 0 0
+/package/fragata-yacht/
+0 15 0 663451 3 1
+/wp-content/uploads/2016/04/eclipse-yacht.jpg
+1 4 0 589708 0 0
+/wp-content/uploads/wpcf7_captcha/3097295766.png
+1 1 0 1361 0 0
+/wp-content/uploads/wpcf7_captcha/255166531.png
+1 1 0 1547 0 0
+/wp-content/themes/tourpackage-v2-01/include/stylesheet/jquery.confirm.css
+0 7 0 1302 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/nav-last.png
+1 1 0 3102 0 0
+/wp-content/plugins/LayerSlider/static/js/layerslider.transition.gallery.js
+0 5 0 5262 0 0
+/wp-content/uploads/2016/04/Yasuni-kichwa-ecolodge-tourism-150x150.jpg
+1 1 0 10556 0 0
+/wp-content/plugins/LayerSlider/static/css/layerslider.css
+0 77 0 549780 0 0
+/wp-content/uploads/wpcf7_captcha/1858890742.png
+1 1 0 1279 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/checkbox-switch-on.png
+1 1 0 4962 0 0
+/2013/03/03/ullamcorper-cras-aenean/feed/
+0 1 0 676 1 0
+/portfolio/amet-sollicitudin/
+0 2 0 58920 1 3
+/wp-content/uploads/wpcf7_captcha/1229790303.png
+1 1 0 1352 0 0
+/wp-content/uploads/2016/03/santa-cruz-2-yacht-400x300.jpg
+1 16 0 595920 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/admin-panel/General.png
+1 1 0 3445 0 0
+/wp-content/themes/tourpackage-v2-01/include/stylesheet/jquery.miniColors.css
+0 1 0 1331 0 0
+/wp-content/uploads/2016/04/athala-sundeck-300x225.jpg
+1 5 0 129050 0 0
+/wp-content/uploads/2015/09/San_Bartolome_Island_Galapagos_Islands.jpg
+1 23 0 5233811 0 0
+/wp-content/uploads/2015/09/Eco-Galaxy-Catamaran-Suite1.jpg
+1 4 0 1127596 0 0
+/wp-content/uploads/2016/03/golondrina-yacht.jpg
+1 3 0 463236 0 0
+/wp-content/uploads/2016/02/galapagos-frigate-bird-400x260.jpg
+1 6 0 175314 0 0
+/wp-content/uploads/2016/04/la-pinta-yacht-observation-deck-150x150.jpg
+1 2 0 23712 0 0
+/comments/feed/
+0 25 0 18375 6 5
+/wp-content/uploads/2015/08/anahi-yacht-saloon.jpg
+1 4 0 1792972 0 0
+/wp-content/uploads/2016/04/eden-yacht-sundeck-150x150.jpg
+1 1 0 12501 0 0
+/wp-content/uploads/2015/11/ecuador-flag.jpg
+1 38 0 2475475 0 0
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/slide-d-5-2.png
+1 4 0 1044 0 0
+/wp-content/uploads/2016/04/Queen-Beatriz-yacht-cabin.jpg
+1 4 0 1374060 0 0
+/expedition-packages/
+0 37 0 1233029 5 3
+/wp-content/uploads/2016/04/sundeck-isabela-yacht.jpg
+1 9 0 2188998 0 0
+/package/ecuador-discovered-9d-8n/
+0 8 0 387913 0 1
+/wp-content/uploads/2016/04/jacuzzi-isabela-yacht.jpg
+1 7 0 1722511 0 0
+/wp-content/themes/tourpackage-v2-01/include/javascript/gdl-panel.js
+0 1 0 21685 0 0
+/wp-content/uploads/wpcf7_captcha/4158087439.png
+1 1 0 1306 0 0
+/wp-content/uploads/wpcf7_captcha/2504174810.png
+1 1 0 1320 0 0
+/wp-content/uploads/2016/04/cuyabeno-lodge-amazon-ecuador1.jpg
+1 2 0 582176 0 0
+/wp-content/uploads/2016/02/yasuni-kichwa-ecolodge-400x300.jpg
+1 9 0 254718 0 0
+/wp-content/uploads/2016/02/Cotopaxi-volcano-940x400.jpg
+1 23 0 1797703 0 0
+/wp-content/uploads/2016/04/quilotoa-lagoon-150x150.jpg
+1 1 0 9413 0 0
+/package/ecuador-paradise-5d-4n/
+0 9 0 359557 3 2
+/wp-content/uploads/wpcf7_captcha/128811694.png
+1 1 0 1253 0 0
+/wp-content/uploads/wpcf7_captcha/798071756.png
+1 1 0 1320 0 0
+/wp-content/uploads/wpcf7_captcha/2756337709.png
+1 1 0 1318 0 0
+/wp-content/themes/tourpackage-v2-01/images/icon/social-icon-m/twitter.png
+1 35 0 183085 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/jquery-ui/ui-bg_highlight-soft_100_eeeeee_1x100.png
+1 6 0 540 0 0
+/wp-includes/js/admin-bar.min.js
+0 42 0 21081 0 0
+/wp-content/uploads/2015/12/lonely-george-400x260.jpg
+1 17 0 730575 0 0
+/wp-content/uploads/2016/02/casa-del-suizo-lodge-400x260.jpg
+1 15 0 485085 0 0
+/wp-content/uploads/2016/04/sacha-lodge-explorer.jpg
+1 3 0 2775465 0 0
+/wp-content/uploads/2013/08/award-logo1-150x51.png
+1 2 0 15780 0 0
+/wp-content/uploads/2016/02/fragata-yacht.jpg
+1 1 0 728017 0 0
+/wp-content/themes/tourpackage-v2-01/include/javascript/image-picker.js
+0 1 0 4469 0 0
+/wp-content/plugins/LayerSlider/static/js/minicolors/jquery.minicolors.png
+1 5 0 387295 0 0
+/wp-content/uploads/2016/04/new-flamingo-yacht-sundeck-300x225.jpg
+1 2 0 47696 0 0
+/portfolio-tag/package/
+0 2 0 49688 1 0
+/wp-content/uploads/wpcf7_captcha/2572276468.png
+1 1 0 1259 0 0
+/wp-content/plugins/LayerSlider/static/codemirror/theme/solarized.mod.css
+0 5 0 14040 0 0
+/wp-content/uploads/2015/09/Galaxy-Yacht-400x300.jpg
+1 12 0 375295 0 0
+/wp-content/uploads/2016/04/anakonda-amazon-cruise-suite3.jpg
+1 2 0 606290 0 0
+/wp-content/uploads/2016/03/angelito-yacht.jpg
+1 4 0 928620 0 0
+/package-category-sitemap.xml
+0 5 0 11940 0 0
+/package/anakonda-amazon-river-cruise/
+0 9 0 521257 3 2
+/wp-content/uploads/2016/03/aida-maria-yacht-150x150.jpg
+1 2 0 16652 0 0
+/wp-content/uploads/wpcf7_captcha/3099775844.png
+1 1 0 1448 0 0
+/wp-content/uploads/2016/04/cuenca-cathedral-150x150.jpg
+1 1 0 12958 0 0
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/vimeo-color.png
+1 4 0 13684 0 0
+/wp-content/uploads/2016/03/new-flamingo-yacht-400x300.jpg
+1 10 0 419040 0 0
+/wp-content/uploads/wpcf7_captcha/1898275241.png
+1 1 0 1344 0 0
+/wp-content/uploads/2016/04/Yasuni-kichwa-ecolodge-tourism-300x225.jpg
+1 1 0 28180 0 0
+/wp-content/uploads/wpcf7_captcha/2255629653.png
+1 1 0 1446 0 0
+/wp-content/uploads/2016/03/isabela-yacht-400x300.jpg
+1 17 0 513046 0 0
+/package/anahi-yacht-2/
+0 19 0 1534436 7 2
+/license.txt
+0 2 0 39860 0 0
+/wp-content/uploads/2016/04/Otavalo-indigenous-market-150x150.jpg
+1 1 0 15607 0 0
+/wp-content/uploads/2015/09/Eco-Galaxy-Catamaran.jpg
+1 6 0 1409928 0 0
+/wp-content/themes/tourpackage-v2-01/stylesheet/flexslider.css
+0 2 0 7900 0 0
+/wp-content/uploads/2016/04/eclipse-yacht-300x225.jpg
+1 3 0 51996 0 0
+/package/discover-ecuador-6d-5n/
+0 11 0 458420 3 3
+/wp-content/themes/tourpackage-v2-01/include/images/loading.gif
+1 1 0 9427 0 0
+/wp-content/uploads/2016/04/train-to-salinas-150x150.jpg
+1 1 0 12175 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/panel-child-nav.png
+1 1 0 3249 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/please-select-media.jpg
+1 1 0 18450 0 0
+/wp-content/uploads/2016/04/papallacta-thermas.jpg
+1 2 0 269666 0 0
+/wp-content/uploads/2015/12/amazon-bird-300x136.jpg
+1 5 0 83985 0 0
+/wp-content/uploads/2016/04/athala-sundeck-150x150.jpg
+1 1 0 10560 0 0
+/wp-content/uploads/2016/04/Yasuni-kichwa-ecolodge-canoe1-300x225.jpg
+1 1 0 25390 0 0
+/galapagos-expeditions/page/3/
+0 1 0 31947 0 0
+/wp-includes/js/mediaelement/mediaelementplayer.min.css
+0 7 0 59637 0 0
+/wp-content/uploads/2016/04/anakonda-amazon-cruise-suite3-300x225.jpg
+1 1 0 19323 0 0
+/wp-content/uploads/2016/04/la-pinta-yacht-lounge-150x150.jpg
+1 2 0 22380 0 0
+/personnal-category-sitemap.xml
+0 3 0 1863 0 0
+/amazon-expeditions/page/3/
+0 1 0 24388 1 1
+/price-table-category-sitemap.xml
+0 3 0 1845 0 0
+/wp-content/uploads/2016/04/Otavalo-indigenous-market.jpg
+1 2 0 986414 0 0
+/wp-content/plugins/wordpress-seo/js/wp-seo-admin-global-310.min.js
+0 8 0 2876 0 0
+/wp-content/plugins/wordpress-seo/js/wp-seo-admin-media-310.min.js
+0 6 0 457 0 0
+/wp-content/themes/tourpackage-v2-01/javascript/jquery.fancybox-thumbs.js
+0 73 0 108054 0 0
+/robots.txt
+0 159 0 22578 0 0
+/wp-content/uploads/2016/04/eden-yacht-galapagos.jpg
+1 2 0 346430 0 0
+/price_table-sitemap.xml
+0 7 0 8729 0 0
+/wp-content/uploads/2013/08/anahi-yacht-560x300.jpg
+1 1 0 36277 0 0
+/author/admin/feed/
+0 1 0 18668 1 1
+/wp-content/themes/tourpackage-v2-01/stylesheet/
+0 2 0 0 0 0
+/gallery-2-columns/feed/
+0 1 0 693 1 1
+/wp-content/uploads/wpcf7_captcha/2171918079.png
+1 1 0 1593 0 0
+/wp-content/plugins/LayerSlider/static/skins/preview/skin.css
+0 1 0 1640 0 0
+/feed/
+0 30 0 559260 3 2
+/wp-content/uploads/2016/03/san-francisco-church-300x144.jpg
+1 5 0 76285 0 0
+/wp-content/uploads/2016/04/cuicocha-lagoon-ecuador-300x225.jpg
+1 1 0 29580 0 0
+/wp-content/uploads/wpcf7_captcha/1588383630.png
+1 1 0 1138 0 0
+/accordion/feed/
+0 1 0 685 1 1
+/wp-content/uploads/2016/02/Papallacta-400x300.jpg
+1 8 0 372144 0 0
+/wp-content/plugins/wordpress-seo/css/yst_seo_score-310.min.css
+0 6 0 1838 0 0
+/wp-content/uploads/2015/11/Galápagos_land_iguana_4201792789-300x121.jpg
+1 5 0 76505 0 0
+/page-sitemap.xml
+0 7 0 25963 0 0
+/blog-medium-right-sidebar/feed/
+0 1 0 701 1 1
+/portfolio-tag/card/
+0 1 0 24718 0 0
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/slide-d-5-5.png
+1 5 0 2975 0 0
+/wp-content/uploads/2016/02/galapagos-frigate-bird-940x400.jpg
+1 23 0 1812101 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/check-list.png
+1 6 0 3858 0 0
+/galapagos-cruises/
+0 31 0 1299662 2 0
+/wp-admin/async-upload.php
+0 77 0 125639 0 0
+/wp-content/uploads/2016/02/Cotopaxi-volcano-400x260.jpg
+1 13 0 320892 0 0
+/wp-content/uploads/2016/04/new-flamingo-yacht-sundeck.jpg
+1 2 0 178222 0 0
+/wp-content/themes/tourpackage-v2-01/include/stylesheet/meta-css.css
+0 6 0 9058 0 0
+/wp-content/uploads/2016/03/athala-yacht-150x150.jpg
+1 1 0 9300 0 0
+/wp-content/uploads/wpcf7_captcha/3189148464.png
+1 1 0 1280 0 0
+/wp-content/uploads/wpcf7_captcha/1720351336.png
+1 1 0 1281 0 0
+/wp-content/uploads/2016/04/eden-yacht-cabin-300x225.jpg
+1 2 0 45410 0 0
+/portfolio-tag/design/
+0 1 0 25343 0 0
+/wp-content/uploads/2016/04/eclipse-yacht-lounge-150x150.jpg
+1 2 0 25132 0 0
+/first-class-yachts/
+0 37 0 1144983 1 0
+/wp-content/plugins/LayerSlider/static/codemirror/mode/css/css.js
+0 5 0 85512 0 0
+/wp-content/uploads/wpcf7_captcha/3448033698.png
+1 1 0 1114 0 0
+/wp-content/uploads/2016/04/fragata-yacht-sundeck-300x225.jpg
+1 2 0 53308 0 0
+/portfolio-4-columns-2/feed/
+0 1 0 697 1 0
+/package-sitemap.xml
+0 9 0 104331 0 0
+/wp-content/uploads/wpcf7_captcha/102445275.png
+1 1 0 1199 0 0
+/wp-content/uploads/2016/04/angelito-yacht-lounge-150x150.jpg
+1 1 0 11384 0 0
+/wp-cron.php
+0 533 0 0 350 349
+/wp-content/uploads/2013/08/anahi-yacht.jpg
+1 7 0 3352615 0 0
+/gdl-gallery-sitemap.xml
+0 7 0 7392 0 0
+/wp-content/plugins/contact-form-7/includes/css/
+0 2 0 0 0 0
+/wp-content/uploads/2016/04/otavalo-indigenous.jpg
+1 2 0 756362 0 0
+/wp-content/uploads/wpcf7_captcha/3903397237.png
+1 1 0 1518 0 0
+/wp-admin/images/resize.gif
+1 6 0 420 0 0
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/arrow-up.png
+1 3 0 1467 0 0
+/wp-content/uploads/2013/08/Queen-Beatriz-Cruise-400x260.jpg
+1 12 0 325356 0 0
+/wp-content/themes/tourpackage-v2-01/stylesheet/font-awesome/font-awesome-ie7.min.css
+0 3 0 113346 0 0
+/portfolio/praesent-commodo-cursus/
+0 4 0 120980 3 0
+/package/ecuador-unique-7d-6n/
+0 9 0 370737 1 3
+/wp-content/uploads/wpcf7_captcha/982428004.png
+1 1 0 1130 0 0
+/wp-content/plugins/LayerSlider/static/js/admin.js
+0 5 0 268275 0 0
+/wp-content/plugins/wordpress-seo/css/dashboard-305.min.css
+0 4 0 4364 0 0
+/wp-content/plugins/LayerSlider/static/skins/v5/
+0 2 0 0 0 1
+/wp-content/uploads/2016/04/quito-la-compania-church.jpg
+1 1 0 177516 0 0
+/wp-content/plugins/LayerSlider/static/codemirror/addon/fold/brace-fold.js
+0 5 0 10920 0 0
+/wp-content/uploads/wpcf7_captcha/1970320749.png
+1 1 0 1495 0 0
+/wp-content/themes/tourpackage-v2-01/stylesheet/font-awesome/fontawesome-webfont.woff
+0 40 0 827868 0 0
+/wp-content/uploads/2016/04/train-to-salinas-300x225.jpg
+1 1 0 31405 0 0
+/wp-content/uploads/2016/03/new-flamingo-yacht-400x260.jpg
+1 13 0 488514 0 0
+/page/3/
+0 1 0 36154 0 0
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff
+0 9 0 3516 0 0
+/package-tag-sitemap.xml
+0 3 0 3564 0 0
+/wp-content/uploads/wpcf7_captcha/1248051904.png
+1 1 0 1314 0 0
+/wp-content/uploads/wpcf7_captcha/661734699.png
+1 1 0 1266 0 0
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/circle-300x300.png
+1 4 0 216264 0 0
+/galapagos-expeditions/page/4/
+0 1 0 26088 0 0
+/wp-content/uploads/2016/04/Yasuni_kichwa_ecolodge.jpg
+1 3 0 1124760 0 0
+/wp-content/uploads/2016/02/Papallacta-300x200.jpg
+1 5 0 129945 0 0
+/portfolio-2-columns/feed/
+0 2 0 1390 2 1
+/wp-content/uploads/2016/04/sundeck-isabela-yacht-150x150.jpg
+1 1 0 11204 0 0
+/wp-admin/admin-ajax.php
+0 2382 0 6043580 28 24
+/wp-content/uploads/2016/02/Galapagos-Islands-300x150.jpg
+1 5 0 87820 0 0
+/wp-content/uploads/wpcf7_captcha/3184454662.png
+1 1 0 1297 0 0
+/wp-content/uploads/2016/04/train-to-salinas.jpg
+1 1 0 351612 0 0
+/wp-content/uploads/2016/04/Cotopaxi-volcano-Ecuador-300x225.jpg
+1 1 0 18550 0 0
+/wp-content/uploads/2016/04/athala-twin-cabin.jpg
+1 1 0 69712 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/edit-slider-boverlay.png
+1 1 0 2800 0 0
+/package/aida-maria-yacht/
+0 15 0 672313 5 5
+/portfolio-tag/website/
+0 1 0 28388 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/footer-style6.png
+1 1 0 3227 0 0
+/wp-content/uploads/2016/02/casa-del-suizo-lodge.jpg
+1 2 0 195776 0 0
+/tag/drugs/
+0 1 0 24439 1 0
+/wp-content/themes/tourpackage-v2-01/include/images/checkbox-switch-off.png
+1 1 0 4903 0 0
+/tag/party/
+0 1 0 24439 1 0
+/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js
+0 90 0 2539035 0 0
+/wp-content/uploads/2016/04/santa-cruz-ii-yacht.jpg
+1 2 0 475534 0 0
+/wp-content/uploads/2016/04/anakonda-amazon-cruise-suite-150x150.jpg
+1 1 0 8431 0 0
+/wp-content/uploads/2016/04/aida-maria-yacht-lounge-300x225.jpg
+1 2 0 61680 0 0
+/wp-content/uploads/2013/08/anahi-yacht-400x260.jpg
+1 11 0 264572 0 0
+/wp-content/themes/tourpackage-v2-01/images/nivo-slider/loading.gif
+1 21 0 36477 0 0
+/wp-content/uploads/2016/02/fragata-yacht-400x300.jpg
+1 10 0 429320 0 0
+/wp-content/uploads/wpcf7_captcha/3584578727.png
+1 1 0 1225 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/admin-panel/PluginSetting.png
+1 1 0 3394 0 0
+/wp-content/uploads/wpcf7_captcha/3449938024.png
+1 1 0 1094 0 0
+/wp-content/uploads/wpcf7_captcha/3417051854.png
+1 1 0 1381 0 0
+/wp-content/plugins/wordpress-seo/js/wp-seo-post-scraper-310.min.js
+0 6 0 8625 0 0
+/wp-content/themes/tourpackage-v2-01/stylesheet/foundation-responsive.css
+0 69 0 226170 0 0
+/wp-content/themes/tourpackage-v2-01/include/images/panel-menu-child-icon.png
+1 1 0 2932 0 0
+/wp-content/uploads/2016/04/athala-twin-cabin2-300x225.jpg
+1 5 0 113645 0 0
+/wp-content/uploads/layerslider/LayerSlider-5-responsive-demo-slider/slide-a-6.png
+1 4 0 1344 0 0
+/wp-content/uploads/wpcf7_captcha/3171006508.png
+1 1 0 1425 0 0
+/wp-content/uploads/wpcf7_captcha/1030405430.png
+1 1 0 1325 0 0
+/wp-content/uploads/2016/03/athala-yacht.jpg
+1 8 0 946752 0 0
+/wp-content/uploads/2016/03/athala-yacht-400x260.jpg
+1 15 0 477420 0 0
+/wp-content/uploads/wpcf7_captcha/585096484.png
+1 1 0 1293 0 0
+/wp-content/uploads/2016/04/gym-isabela-yacht-300x225.jpg
+1 5 0 159980 0 0
+/wp-content/uploads/2016/04/sacha-lodge-monkey.jpg
+1 2 0 777222 0 0
+/wp-content/uploads/2016/04/devils-nose-train-150x150.jpg
+1 1 0 10138 0 0
+/wp-content/uploads/2016/02/galapagos-sea-lion-400x300.jpg
+1 7 0 271439 0 0
+/wp-content/uploads/2016/04/angelito-yacht-cabin-150x150.jpg
+1 1 0 8977 0 0
+# End Of Table - urls
+# -sites- (monthly)
+212.193.253.108
+0 2 0 522 2 1460797833
+/xmlrpc.php
+180.76.15.163
+0 5 3 120104 3 1460653537
+-
+182.50.151.55
+0 1 0 261 1 1460430359
+/xmlrpc.php
+204.79.180.184
+0 1 1 5056 0 0
+-
+31.16.43.186
+0 1 0 261 0 0
+-
+46.183.221.52
+0 28 1 264975 1 1460010756
+-
+91.193.20.28
+0 1 0 261 1 1459944720
+/xmlrpc.php
+141.8.143.162
+0 12 6 247920 6 1460883789
+/tag/people/
+186.202.153.207
+0 1 0 261 1 1459860193
+/xmlrpc.php
+72.177.107.184
+0 52 3 569284 3 1460029841
+-
+51.255.65.95
+0 1 1 24460 1 1460320863
+/author/admin/
+91.215.216.35
+0 1 0 261 1 1460262457
+/xmlrpc.php
+185.113.220.11
+0 1 0 261 1 1460518649
+/xmlrpc.php
+207.46.13.156
+0 10 4 200293 4 1460648608
+/portfolio/amet-sollicitudin/
+92.63.218.160
+0 1 0 261 1 1459828316
+/xmlrpc.php
+69.163.240.106
+0 1 0 261 1 1459817592
+/xmlrpc.php
+180.76.15.138
+0 3 2 125408 2 1460917249
+/expedition-packages/
+141.8.143.173
+0 2 2 31457 0 0
+-
+164.132.161.2
+0 2 1 24202 2 1460073024
+-
+164.132.161.31
+0 1 0 23539 1 1459728026
+-
+173.252.95.9
+0 2 2 72899 0 0
+-
+195.154.240.176
+0 1460 1458 9619482 2 1460264768
+/wp-login.php
+89.46.104.189
+0 2 0 522 2 1460699928
+/xmlrpc.php
+40.77.167.72
+0 11 4 208937 1 1459784457
+/package/fragata-yacht/
+204.79.180.62
+0 1 1 6462 0 0
+-
+97.74.232.207
+0 1 0 261 1 1459709109
+/xmlrpc.php
+144.76.30.236
+0 1 0 261 0 0
+-
+51.255.65.9
+0 1 1 688 1 1459821102
+/page-builder/feed/
+202.46.48.84
+0 1 1 142 0 0
+-
+89.161.195.11
+0 1 0 261 1 1460663917
+/xmlrpc.php
+37.9.169.3
+0 1 0 261 1 1459738407
+/xmlrpc.php
+40.77.167.60
+0 2 0 47051 1 1460916847
+-
+164.132.161.70
+0 2 1 24192 2 1460054070
+/buttons/feed/
+204.79.180.60
+0 1 1 48364 1 1460877019
+/
+185.86.76.5
+0 5 0 1305 5 1460877563
+/xmlrpc.php
+195.114.18.146
+0 1 0 261 1 1460320952
+/xmlrpc.php
+148.251.152.171
+0 1 0 261 1 1460193592
+/xmlrpc.php
+79.133.53.26
+0 1 0 261 1 1460790808
+/xmlrpc.php
+192.95.32.134
+0 1 0 261 1 1460342868
+/xmlrpc.php
+75.98.166.130
+0 1 0 261 1 1459670789
+/xmlrpc.php
+194.8.146.250
+0 5 3 52556 1 1460423976
+/xmlrpc.php
+50.62.177.131
+0 1 0 261 1 1459777716
+/xmlrpc.php
+198.143.189.2
+0 2 0 522 2 1460356065
+/xmlrpc.php
+202.52.146.48
+0 1 0 261 1 1460242732
+/xmlrpc.php
+40.77.167.6
+0 1 0 23509 1 1460671226
+-
+204.79.180.240
+0 1 1 15708 0 0
+-
+157.55.39.129
+0 17 9 339218 8 1460652569
+-
+204.79.180.92
+0 1 1 44 0 0
+-
+85.128.142.56
+0 1 0 261 1 1459709080
+/xmlrpc.php
+103.6.196.221
+0 2 0 522 2 1460191560
+/xmlrpc.php
+180.76.15.24
+0 4 3 72470 2 1460783664
+/
+51.255.65.36
+0 1 1 689 1 1460049888
+/blog-1-column/feed/
+213.238.171.2
+0 1 0 261 1 1459905496
+/xmlrpc.php
+31.220.104.45
+0 1 0 261 1 1459765742
+/xmlrpc.php
+202.46.55.134
+0 1 1 48481 1 1460811409
+/
+94.73.151.90
+0 1 0 261 1 1460838516
+/xmlrpc.php
+164.132.161.65
+0 1 0 23509 1 1459539671
+-
+123.125.71.22
+0 1 1 142 0 0
+-
+92.53.126.22
+0 1 0 261 1 1459631271
+/xmlrpc.php
+204.79.180.120
+0 1 1 71590 0 0
+-
+50.23.248.249
+0 1 0 261 1 1459808076
+/xmlrpc.php
+180.76.15.10
+0 6 4 225358 4 1460895948
+/package/aida-maria-yacht/
+188.241.222.238
+0 2 0 522 2 1459708937
+/xmlrpc.php
+198.100.146.157
+0 1 0 261 1 1460629723
+/xmlrpc.php
+204.79.180.54
+0 3 3 65308 0 0
+-
+212.1.210.106
+0 1 0 261 1 1460124371
+/xmlrpc.php
+164.132.161.50
+0 3 0 70527 2 1460628049
+-
+103.11.188.170
+0 1 0 272 1 1459575714
+-
+186.46.1.82
+0 5779 4154 130928926 18 1460744613
+/package/discover-ecuador-6d-5n/
+186.202.153.64
+0 1 0 261 1 1460518493
+/xmlrpc.php
+94.73.144.160
+0 1 0 261 1 1460631061
+/xmlrpc.php
+103.28.39.4
+0 1 0 261 1 1460235156
+/xmlrpc.php
+144.76.111.105
+0 1 1 106973 1 1459708970
+/xmlrpc.php
+180.76.15.14
+0 3 2 100799 3 1460853541
+-
+204.15.175.67
+0 1 1 0 1 1460677248
+/
+216.55.146.48
+0 1 0 261 1 1459888518
+/xmlrpc.php
+173.236.45.149
+0 1 0 261 1 1459644519
+/xmlrpc.php
+186.202.153.213
+0 1 0 261 1 1460831156
+/xmlrpc.php
+40.77.167.53
+0 2 2 31836 1 1460747723
+/galapagos-expeditions/
+173.254.0.168
+0 1 0 261 1 1459709173
+/xmlrpc.php
+209.124.66.6
+0 2 0 522 2 1459693125
+/xmlrpc.php
+195.154.211.190
+0 1 0 261 1 1460557611
+/xmlrpc.php
+157.55.39.50
+0 15 4 295250 10 1460209595
+-
+69.49.112.71
+0 1 0 261 1 1460422038
+/xmlrpc.php
+180.76.15.160
+0 6 2 119556 5 1460511487
+-
+186.202.153.146
+0 2 0 522 2 1460178777
+/xmlrpc.php
+204.79.180.23
+0 1 1 1088 0 0
+-
+207.46.13.170
+0 1 0 23509 1 1460742599
+-
+89.238.249.170
+0 2 0 522 2 1460400206
+/xmlrpc.php
+213.142.130.35
+0 1 0 261 1 1459681647
+/xmlrpc.php
+164.132.161.16
+0 1 1 696 1 1460341285
+/thumbnail-management/feed/
+157.55.39.250
+0 12 6 262496 9 1460880794
+/package/queen-beatriz-yacht/
+91.184.18.171
+0 1 0 261 1 1459605313
+/xmlrpc.php
+107.155.108.185
+0 1 0 261 1 1459709177
+/xmlrpc.php
+79.96.175.253
+0 1 0 261 1 1459727890
+/xmlrpc.php
+77.92.141.14
+0 1 0 261 1 1460889510
+/xmlrpc.php
+141.138.168.116
+0 1 0 261 1 1459605239
+/xmlrpc.php
+204.79.180.123
+0 1 1 3939 0 0
+-
+213.136.71.19
+0 4 0 1044 4 1460838729
+/xmlrpc.php
+119.59.97.28
+0 1 0 261 1 1460154116
+/xmlrpc.php
+81.177.33.4
+0 1 0 261 1 1460425047
+/xmlrpc.php
+185.106.106.5
+0 1 0 261 1 1460515371
+/xmlrpc.php
+85.143.166.184
+0 1 1 0 1 1459497671
+/wp-admin/admin-ajax.php
+50.87.166.167
+0 1 0 261 1 1460121785
+/xmlrpc.php
+89.161.207.30
+0 2 0 522 2 1460888167
+/xmlrpc.php
+207.46.13.36
+0 1 1 46914 1 1460874763
+/amazon-information/
+100.43.91.11
+0 1 0 23509 1 1460788096
+-
+164.132.161.10
+0 2 1 49089 2 1460479068
+/portfolio-tag/business-card/
+94.73.148.200
+0 1 0 261 1 1460221771
+/xmlrpc.php
+114.109.175.31
+0 5 3 52556 1 1460172601
+/xmlrpc.php
+72.29.76.89
+0 2 0 522 2 1460451595
+/xmlrpc.php
+85.222.44.46
+0 2 1 48623 1 1459954584
+/
+164.132.161.89
+0 1 1 24439 1 1459506493
+/tag/drugs/
+173.254.28.104
+0 1 0 261 1 1459726794
+/xmlrpc.php
+40.77.167.40
+0 3 1 71514 2 1459669186
+-
+157.55.39.36
+0 5 2 126076 4 1459952744
+/portfolio/praesent-commodo-cursus/
+51.255.65.43
+0 3 0 70557 3 1459977434
+-
+141.8.143.210
+0 5 4 77861 2 1460650839
+/
+204.79.180.163
+0 1 1 3049 0 0
+-
+205.186.172.23
+0 1 0 261 1 1459676009
+/xmlrpc.php
+157.55.39.122
+0 12 1 283912 8 1460903265
+-
+217.76.132.211
+0 1 0 261 1 1460381314
+/xmlrpc.php
+188.132.129.19
+0 1 0 261 1 1459864292
+/xmlrpc.php
+208.115.113.92
+0 41 0 10701 0 0
+-
+188.120.246.40
+0 2 0 522 2 1459740635
+/xmlrpc.php
+166.62.119.120
+0 1 0 261 1 1460018537
+/xmlrpc.php
+159.203.203.16
+0 1 0 261 1 1459650464
+/xmlrpc.php
+103.8.25.146
+0 2 0 522 2 1460775677
+/xmlrpc.php
+141.8.143.230
+0 2 2 48474 1 1459522266
+/
+103.233.76.141
+0 1 0 261 1 1460642005
+/xmlrpc.php
+94.73.146.178
+0 2 0 522 2 1460577011
+/xmlrpc.php
+212.1.212.3
+0 1 0 261 1 1459992178
+/xmlrpc.php
+195.154.189.197
+0 8 2 189588 3 1459590297
+/
+94.231.103.33
+0 2 0 522 2 1459709087
+/xmlrpc.php
+51.254.97.22
+0 1 0 261 0 0
+-
+187.17.106.188
+0 1 0 261 1 1460641702
+/xmlrpc.php
+204.79.180.10
+0 1 1 11200 0 0
+-
+173.254.28.126
+0 1 0 261 1 1459943328
+/xmlrpc.php
+180.76.15.23
+0 1 1 142 0 0
+-
+51.255.65.52
+0 3 1 47718 3 1460028773
+-
+204.79.180.18
+0 1 1 3726 0 0
+-
+194.213.5.204
+0 1 0 261 1 1460880504
+/xmlrpc.php
+94.73.151.179
+0 1 0 261 1 1460781983
+/xmlrpc.php
+202.46.55.149
+0 1 1 48397 1 1460896840
+/
+188.166.91.248
+0 1 0 261 1 1459709089
+/xmlrpc.php
+125.227.116.129
+0 1 0 261 1 1460838814
+/xmlrpc.php
+51.255.65.35
+0 2 1 69336 2 1460248689
+-
+31.13.110.96
+0 1 1 48318 1 1460676622
+/
+195.26.90.53
+0 1 0 261 1 1459637375
+/xmlrpc.php
+98.248.172.253
+0 1 1 666006 0 0
+-
+85.128.142.82
+0 1 0 261 1 1459814501
+/xmlrpc.php
+174.36.125.86
+0 1 0 261 1 1459667846
+/xmlrpc.php
+193.107.36.36
+0 1 0 261 1 1459850692
+/xmlrpc.php
+46.28.105.82
+0 1 0 261 1 1460746973
+/xmlrpc.php
+199.21.99.194
+0 1 0 23509 0 0
+-
+69.163.200.113
+0 1 0 261 1 1459624490
+/xmlrpc.php
+164.132.161.25
+0 1 0 23509 1 1459520446
+-
+72.55.186.40
+0 1 0 261 1 1460313259
+/xmlrpc.php
+157.55.39.69
+0 5 3 112451 2 1460710406
+/galapagos-cruises/
+51.255.65.80
+0 2 1 24199 2 1460497587
+-
+173.252.95.10
+0 2 2 83201 0 0
+-
+188.166.13.196
+0 4 3 48983 1 1459631833
+/
+207.210.232.14
+0 1 0 261 1 1459740076
+/xmlrpc.php
+46.119.58.190
+0 2 2 9118 1 1460416830
+/wp-login.php
+180.76.15.151
+0 2 1 71922 2 1459777737
+/
+69.171.228.116
+0 2 2 64334 0 0
+-
+198.71.228.18
+0 1 0 261 1 1460139859
+/xmlrpc.php
+51.255.65.20
+0 3 2 72461 3 1460033774
+-
+134.249.52.13
+0 10 9 40611 5 1460571946
+/wp-login.php
+217.107.219.191
+0 1 0 261 1 1460140226
+/xmlrpc.php
+96.30.32.30
+0 1 0 261 1 1459709138
+/xmlrpc.php
+89.46.104.187
+0 2 0 522 2 1460206529
+/xmlrpc.php
+188.95.227.10
+0 3 0 783 3 1459980470
+/xmlrpc.php
+82.147.16.145
+0 1 0 261 1 1460641780
+/xmlrpc.php
+37.187.43.35
+0 1 0 261 1 1459758739
+/xmlrpc.php
+31.174.244.195
+0 1 1 65903 0 0
+-
+96.31.35.213
+0 1 0 261 1 1460406662
+/xmlrpc.php
+164.132.161.97
+0 1 1 30245 1 1460394454
+/portfolio/praesent-commodo-cursus/
+66.249.91.45
+0 1 1 53 1 1460852274
+/google283700d73c8ced07.html
+202.46.54.29
+0 1 1 48463 1 1460797135
+/
+64.202.126.94
+0 1 0 261 1 1460469090
+/xmlrpc.php
+52.58.73.184
+0 1 1 39585 1 1459970985
+/package/fragata-yacht/
+179.61.198.205
+0 1 0 23509 1 1460237560
+/
+180.76.15.26
+0 3 3 39280 2 1460417251
+/4-columns-with-button-2/feed/
+54.92.249.96
+0 2 1 19017 1 1460072979
+/feed/
+51.255.65.73
+0 1 0 23509 1 1460685348
+-
+157.55.39.128
+0 13 10 288948 3 1459527627
+/portfolio/amet-sollicitudin/
+67.23.254.170
+0 1 0 261 1 1460122933
+/xmlrpc.php
+184.154.139.23
+0 619 474 12897921 13 1460890168
+/wp-login.php
+69.42.71.124
+0 1 0 261 1 1460492817
+/xmlrpc.php
+193.90.12.88
+0 1 1 48398 1 1460386799
+/
+207.58.129.207
+0 1 0 261 1 1459890024
+/xmlrpc.php
+164.132.161.84
+0 4 0 94036 2 1459972618
+-
+96.21.101.19
+0 6 6 52141 6 1460813966
+/comments/feed/
+89.230.81.91
+0 2 1 4323 1 1460730026
+/wp-login.php
+180.76.15.136
+0 5 3 113585 5 1460612666
+/package/galapagos-evolution-5d-4n/
+204.79.180.64
+0 1 1 95952 0 0
+-
+164.132.161.26
+0 1 0 23509 1 1459957032
+-
+202.46.49.152
+0 1 1 48319 1 1459723119
+/
+79.96.53.158
+0 1 0 261 1 1460270294
+/xmlrpc.php
+185.28.22.89
+0 1 0 261 1 1460057552
+/xmlrpc.php
+92.240.253.134
+0 1 0 261 1 1459663516
+/xmlrpc.php
+75.98.174.194
+0 1 0 261 1 1459856884
+/xmlrpc.php
+164.132.161.21
+0 2 1 24407 2 1459679224
+/tag/drugs/feed/
+158.69.27.74
+0 2 1 48615 1 1460031461
+/
+94.190.32.126
+0 252 251 1111434 4 1460017839
+/wp-login.php
+198.71.228.40
+0 1 0 261 1 1460918390
+/xmlrpc.php
+23.91.70.86
+0 1 0 261 1 1460145136
+/xmlrpc.php
+164.132.161.41
+0 3 1 47731 3 1459968290
+/faqs/feed/
+89.145.95.42
+0 1 1 48335 1 1460284455
+/
+192.241.163.63
+0 149 119 4125175 5 1460742244
+/wp-admin/admin-ajax.php
+208.80.155.222
+0 8 0 95616 1 1459552324
+-
+69.163.180.50
+0 1 0 261 1 1460846655
+/xmlrpc.php
+87.242.73.95
+0 2 0 303 2 1460776318
+/xmlrpc.php
+81.174.65.15
+0 1 0 261 1 1459913496
+/xmlrpc.php
+202.46.56.189
+0 1 1 48372 1 1459785492
+/
+178.63.63.140
+0 3 0 783 3 1460281988
+/xmlrpc.php
+195.154.236.233
+0 730 729 4809741 1 1459774542
+/wp-login.php
+187.45.193.167
+0 1 0 261 1 1460230569
+/xmlrpc.php
+108.168.131.2
+0 1 0 261 1 1460407841
+/xmlrpc.php
+94.73.151.220
+0 1 0 261 1 1460383543
+/xmlrpc.php
+141.8.143.214
+0 1 1 42975 0 0
+-
+94.73.146.190
+0 2 0 522 2 1460245999
+/xmlrpc.php
+100.43.85.19
+0 3 2 48099 2 1460883785
+/tag/people/
+110.4.46.14
+0 1 0 261 1 1460300127
+/xmlrpc.php
+204.79.180.20
+0 1 1 23047 0 0
+-
+66.220.146.31
+0 1 1 75996 0 0
+-
+51.255.65.31
+0 1 0 23509 1 1459811069
+-
+69.171.228.118
+0 1 1 37578 0 0
+-
+37.57.25.225
+0 2 0 23920 0 0
+-
+186.202.153.33
+0 1 0 261 1 1459709143
+/xmlrpc.php
+204.79.180.167
+0 1 1 14646 0 0
+-
+93.171.202.120
+0 1 0 261 1 1460185527
+/xmlrpc.php
+164.132.161.78
+0 1 1 29746 1 1459938477
+/portfolio/justo-malesuada-ullamcorper/
+204.79.180.147
+0 1 1 1673 0 0
+-
+51.255.65.10
+0 3 1 51752 3 1460279366
+/amazon-tours/
+5.18.43.130
+0 1 0 243 1 1459781231
+/
+144.76.7.107
+0 1 0 261 0 0
+-
+164.132.161.4
+0 1 0 23509 1 1459586477
+-
+173.236.224.142
+0 1 0 261 1 1460405140
+/xmlrpc.php
+51.255.65.84
+0 1 1 913 1 1459936306
+/category/conference/feed/
+182.50.132.112
+0 1 0 261 1 1460261394
+/xmlrpc.php
+94.231.103.86
+0 2 0 522 2 1460258486
+/xmlrpc.php
+74.6.53.181
+0 1 0 261 1 1460216912
+/xmlrpc.php
+51.255.65.88
+0 1 1 39009 1 1459569177
+/package/yasuni-kichwa-ecolodge/
+204.79.180.128
+0 2 2 40088 0 0
+-
+54.169.199.56
+0 1 0 261 1 1459709178
+/xmlrpc.php
+51.255.65.51
+0 1 1 689 1 1459533991
+/creating-blog/feed/
+85.203.19.97
+0 1 0 23509 1 1460268337
+/
+178.93.148.76
+0 10 2 169164 1 1459825216
+/
+181.224.149.253
+0 1 0 261 1 1459984530
+/xmlrpc.php
+198.11.211.211
+0 1 0 261 1 1460869874
+/xmlrpc.php
+46.235.47.37
+0 2 0 522 2 1460160325
+/xmlrpc.php
+207.46.13.181
+0 25 22 349466 2 1460463613
+-
+77.94.249.177
+0 1 0 261 1 1460868009
+/xmlrpc.php
+104.166.79.228
+0 1 0 261 1 1459611748
+/xmlrpc.php
+148.251.126.171
+0 1 0 261 1 1459572654
+/xmlrpc.php
+23.91.70.28
+0 1 0 261 1 1459806788
+/xmlrpc.php
+204.79.180.6
+0 1 1 7200 0 0
+-
+180.76.15.21
+0 3 1 42445 3 1460697242
+/
+164.132.161.88
+0 1 1 24469 1 1459559405
+/category/blog/
+37.187.143.115
+0 1 0 261 1 1460575431
+/xmlrpc.php
+176.119.35.229
+0 1 0 261 1 1459760414
+/xmlrpc.php
+204.79.180.122
+0 1 1 3726 0 0
+-
+66.249.69.95
+0 122 108 1889173 25 1460866998
+-
+101.99.69.20
+0 2 0 522 2 1460416248
+/xmlrpc.php
+164.132.161.36
+0 2 2 48853 2 1460522709
+/tag/ceremony/
+109.237.132.12
+0 1 0 261 1 1459973274
+/xmlrpc.php
+40.77.167.21
+0 3 1 71483 3 1460365720
+-
+173.3.42.9
+0 1 1 37245 0 0
+-
+204.79.180.175
+0 1 1 22019 0 0
+-
+67.231.249.38
+0 2 0 522 2 1460929194
+/xmlrpc.php
+159.253.7.3
+0 1 0 261 1 1460748108
+/xmlrpc.php
+202.67.231.247
+0 2 0 522 2 1460131536
+/xmlrpc.php
+91.219.236.222
+0 1 0 274 1 1459492142
+-
+92.53.118.117
+0 1 0 261 1 1459571245
+/xmlrpc.php
+51.255.65.25
+0 1 0 23509 1 1459592204
+-
+207.46.13.169
+0 18 11 594724 13 1460881195
+/amazon-tours/
+173.237.172.95
+0 1 0 261 1 1459820362
+/xmlrpc.php
+187.17.106.101
+0 1 0 261 1 1460389019
+/xmlrpc.php
+173.192.89.196
+0 2 0 522 2 1459791064
+/xmlrpc.php
+207.210.200.138
+0 1 0 261 1 1460307060
+/xmlrpc.php
+204.79.180.4
+0 1 1 3386 0 0
+-
+52.8.244.75
+0 1 0 261 1 1459670620
+/xmlrpc.php
+79.96.13.179
+0 1 0 261 1 1460356102
+/xmlrpc.php
+188.120.253.85
+0 1 0 261 1 1460812738
+/xmlrpc.php
+92.53.112.89
+0 1 0 261 1 1460223947
+/xmlrpc.php
+157.55.39.240
+0 5 1 94178 3 1460375376
+-
+204.79.180.114
+0 1 1 71590 0 0
+-
+46.21.173.147
+0 1 0 261 1 1459619089
+/xmlrpc.php
+204.79.180.207
+0 1 1 3939 0 0
+-
+78.24.10.186
+0 1 0 261 1 1460276686
+/xmlrpc.php
+151.236.51.125
+0 1 0 261 1 1460862210
+/xmlrpc.php
+166.62.92.104
+0 1 0 261 1 1460460474
+/xmlrpc.php
+190.152.131.128
+0 1 1 42361 0 0
+-
+187.45.195.12
+0 2 0 522 2 1460050749
+/xmlrpc.php
+89.161.131.223
+0 1 0 261 1 1460443256
+/xmlrpc.php
+51.255.65.57
+0 1 0 23509 1 1459831330
+-
+89.161.188.50
+0 1 0 261 1 1460913097
+/xmlrpc.php
+216.69.191.97
+0 2 1 48729 1 1460009447
+/
+176.9.123.36
+0 1 0 261 1 1460919687
+/xmlrpc.php
+202.46.54.70
+0 1 0 243 1 1460431784
+/
+180.76.15.20
+0 2 1 58755 2 1460669748
+/
+173.236.176.120
+0 1 0 261 1 1460517678
+/xmlrpc.php
+51.255.65.90
+0 3 1 71457 2 1460316687
+/tag/party/
+108.179.231.64
+0 1 0 261 1 1460822805
+/xmlrpc.php
+82.220.34.11
+0 1 0 261 1 1459984606
+/xmlrpc.php
+5.77.61.129
+0 1 0 261 1 1460250527
+/xmlrpc.php
+159.253.0.35
+0 1 0 261 1 1459612059
+/xmlrpc.php
+204.79.180.121
+0 1 1 14646 0 0
+-
+45.79.146.165
+0 29 26 288439 1 1460046722
+/wp-admin/admin-ajax.php
+51.255.65.30
+0 1 0 23509 0 0
+-
+91.208.99.2
+0 11 0 2871 10 1460838842
+/xmlrpc.php
+98.139.204.18
+0 1 0 261 1 1460776392
+/xmlrpc.php
+180.76.15.148
+0 3 3 118494 2 1459777817
+/
+180.76.15.7
+0 3 2 116806 2 1460768965
+-
+204.79.180.93
+0 1 0 243 1 1460877014
+/
+62.129.226.202
+0 1 0 261 1 1460904233
+/xmlrpc.php
+204.79.180.190
+0 1 1 735 0 0
+-
+207.96.154.60
+0 1 0 261 1 1460550622
+/xmlrpc.php
+157.55.39.11
+0 2 2 51440 1 1459773322
+/tourist-economic-class/
+164.132.161.59
+0 3 2 77932 3 1460233043
+-
+88.87.35.229
+0 1 0 261 1 1459761606
+/xmlrpc.php
+100.43.81.146
+0 2 2 33589 1 1460861395
+/tourist-superior-class-yachts/
+92.240.253.141
+0 1 0 261 1 1460350567
+/xmlrpc.php
+204.79.180.137
+0 1 1 3049 0 0
+-
+195.242.80.70
+0 2 0 47018 0 0
+-
+67.20.65.55
+0 1 1 48393 1 1459580719
+/
+141.138.168.153
+0 1 0 261 1 1460328424
+/xmlrpc.php
+146.185.202.3
+0 2 1 48664 1 1460729342
+/
+62.210.84.21
+0 14 0 190652 1 1460357657
+-
+68.180.230.46
+0 2 1 385 1 1459786589
+/
+131.253.25.229
+0 2 2 80164 0 0
+-
+180.76.15.12
+0 1 0 268 1 1460046335
+/
+108.166.77.93
+0 17 0 121000 1 1460512585
+-
+202.46.56.69
+0 1 1 48464 1 1460501458
+/
+173.236.138.72
+0 1 0 261 1 1460041597
+/xmlrpc.php
+51.255.65.62
+0 2 1 59236 2 1459665736
+/package/ecuador-paradise-5d-4n/
+200.55.211.179
+0 2 0 522 2 1460534034
+/xmlrpc.php
+202.46.53.42
+0 1 0 243 1 1460096600
+/
+141.8.143.200
+0 1 1 48459 1 1460815257
+/
+107.21.1.8
+0 4 4 235401 2 1460804424
+/
+164.132.161.73
+0 1 0 23509 0 0
+-
+164.132.161.90
+0 4 1 71940 4 1460312441
+/category/holiday/
+142.4.213.25
+0 1 1 48401 1 1459814846
+/
+94.73.151.60
+0 1 0 261 1 1459663698
+/xmlrpc.php
+46.148.18.162
+0 67 65 1382493 63 1460562488
+/xmlrpc.php
+202.46.52.151
+0 1 0 243 1 1460858375
+/
+64.90.40.3
+0 1 0 261 1 1460641497
+/xmlrpc.php
+85.128.142.21
+0 1 0 261 1 1459670813
+/xmlrpc.php
+67.23.252.247
+0 2 0 522 2 1460568065
+/xmlrpc.php
+188.128.180.113
+0 1 0 261 1 1460682264
+/xmlrpc.php
+164.132.161.66
+0 2 1 53398 1 1459730193
+/portfolio/dapibus-euismod-tristique-vestibulum/
+85.128.142.87
+0 1 0 261 1 1459959648
+/xmlrpc.php
+204.79.180.222
+0 2 2 16215 0 0
+-
+78.46.100.197
+0 1 0 261 1 1459670819
+/xmlrpc.php
+202.46.53.67
+0 1 0 243 1 1460797134
+/
+164.132.161.96
+0 1 0 23539 1 1460385110
+-
+207.46.13.76
+0 1 0 23509 1 1459575140
+-
+187.45.240.115
+0 1 0 261 1 1459688894
+/xmlrpc.php
+81.177.49.3
+0 2 0 522 2 1459771432
+/xmlrpc.php
+91.139.197.170
+0 5 3 52556 1 1460907997
+/xmlrpc.php
+164.132.161.79
+0 2 0 47018 2 1459986929
+-
+199.21.99.198
+0 1 1 48402 1 1460815252
+/
+204.79.180.88
+0 1 1 5959 0 0
+-
+212.90.148.82
+0 1 0 261 1 1460440116
+/xmlrpc.php
+188.241.222.206
+0 2 0 522 2 1460584489
+/xmlrpc.php
+207.46.13.29
+0 3 2 3278 1 1460017507
+-
+195.154.237.108
+0 730 729 4809741 1 1460610230
+/wp-login.php
+64.90.48.190
+0 2 0 522 2 1460868741
+/xmlrpc.php
+157.55.39.167
+0 14 5 900428 5 1459722631
+-
+176.31.118.121
+0 1 0 261 1 1459688977
+/xmlrpc.php
+164.132.161.74
+0 1 0 23509 1 1460189568
+-
+46.243.172.133
+0 1 0 243 1 1460448285
+/
+157.55.39.136
+0 3 0 70527 3 1459677971
+-
+100.43.91.26
+0 1 1 24514 1 1460720552
+/category/daily-lfe/
+207.107.146.105
+0 9 9 23154 5 1459795593
+/xmlrpc.php
+50.87.232.246
+0 2 0 522 2 1459850711
+/xmlrpc.php
+78.142.63.35
+0 2 0 522 2 1460758221
+/xmlrpc.php
+141.8.143.204
+0 1 0 23532 1 1460713516
+-
+84.178.253.213
+0 5 3 52556 1 1460142462
+/xmlrpc.php
+91.236.156.120
+0 5 3 52556 1 1460709367
+/xmlrpc.php
+50.62.134.179
+0 1 0 261 1 1460367768
+/xmlrpc.php
+95.174.28.190
+0 1 0 261 1 1460930192
+/xmlrpc.php
+185.21.40.240
+0 1 0 261 1 1459761735
+/xmlrpc.php
+51.255.65.74
+0 1 0 23509 0 0
+-
+198.101.238.88
+0 1 0 261 1 1460527439
+/xmlrpc.php
+141.8.143.198
+0 29 14 759010 16 1460863338
+/portfolio/donec-ullamcorper/
+200.73.116.110
+0 1 0 261 1 1460861999
+/xmlrpc.php
+91.201.215.149
+0 1 0 261 1 1459859395
+/xmlrpc.php
+86.107.43.65
+0 2 0 522 2 1460407526
+/xmlrpc.php
+40.113.100.85
+0 2 1 4312 1 1460631295
+-
+115.28.10.159
+0 2 0 522 2 1460392165
+/xmlrpc.php
+205.196.223.189
+0 1 0 261 1 1460637093
+/xmlrpc.php
+85.128.142.53
+0 1 1 48423 1 1459582285
+/
+180.76.15.154
+0 4 3 57318 3 1460781646
+/portfolio-2-columns/feed/
+164.132.161.33
+0 2 1 48005 2 1459874376
+-
+94.73.146.200
+0 1 0 261 1 1460850561
+/xmlrpc.php
+51.255.65.56
+0 3 2 48682 3 1460443395
+-
+164.132.161.52
+0 2 1 51296 2 1460221835
+-
+52.38.25.71
+0 44 44 17732 2 1460578587
+/xmlrpc.php
+192.169.198.149
+0 1 0 261 1 1459709175
+/xmlrpc.php
+74.208.229.104
+0 1 0 261 1 1459781284
+/xmlrpc.php
+91.142.252.192
+0 1 0 261 1 1459619049
+/xmlrpc.php
+144.76.93.46
+0 1 0 261 0 0
+-
+51.255.65.97
+0 2 1 1066 2 1460671056
+-
+149.202.98.160
+0 1 0 274 1 1459492146
+-
+177.185.196.32
+0 1 0 261 1 1460818346
+/xmlrpc.php
+164.132.161.92
+0 1 0 23509 1 1459743829
+-
+207.46.13.114
+0 11 1 189928 4 1460117853
+-
+100.43.85.9
+0 1 1 29889 1 1460882315
+/portfolio/dapibus-euismod-tristique-vestibulum/
+164.132.161.85
+0 2 2 72866 2 1460265107
+/category/conference/
+100.43.81.139
+0 1 1 31828 0 0
+-
+109.123.72.70
+0 2 0 522 2 1460040724
+/xmlrpc.php
+85.10.210.60
+0 1 0 261 1 1460268840
+/xmlrpc.php
+91.184.18.72
+0 1 0 261 1 1460289327
+/xmlrpc.php
+46.28.105.119
+0 1 0 261 1 1460178478
+/xmlrpc.php
+180.76.15.159
+0 4 2 72288 4 1460686974
+/faq/
+204.79.180.203
+0 2 2 22062 0 0
+-
+64.111.127.89
+0 1 0 261 1 1460772547
+/xmlrpc.php
+104.140.73.6
+0 2 2 78036 1 1459849701
+/package/galapagos-dreams-7d-6n/
+37.187.192.215
+0 1 0 261 1 1460757658
+/xmlrpc.php
+104.219.54.165
+0 1 0 261 1 1459926915
+/xmlrpc.php
+93.75.200.10
+0 2 1 48553 1 1460426641
+/
+180.76.15.150
+0 5 0 47848 5 1460826275
+/
+79.96.152.218
+0 1 0 261 1 1460406746
+/xmlrpc.php
+195.154.146.225
+0 14 14 677978 14 1460934876
+/
+195.52.243.139
+0 1 0 261 1 1460050741
+/xmlrpc.php
+64.246.165.150
+0 2 2 48495 1 1459865027
+/
+31.172.191.135
+0 2 1 48634 1 1459868015
+/
+157.55.39.89
+0 4 3 128826 2 1460054566
+-
+204.79.180.30
+0 1 1 6462 0 0
+-
+188.128.239.116
+0 2 0 522 2 1459765985
+/xmlrpc.php
+136.243.33.181
+0 2 2 96914 1 1460458894
+/
+85.128.142.81
+0 2 0 522 2 1459808035
+/xmlrpc.php
+200.219.209.134
+0 6 3 47476 1 1460576145
+-
+88.208.252.219
+0 1 0 261 1 1460807986
+/xmlrpc.php
+51.255.65.4
+0 1 0 399 1 1459512460
+-
+164.132.161.30
+0 2 1 24192 2 1460736569
+-
+208.115.113.86
+0 3 0 783 0 0
+-
+113.11.251.178
+0 1 0 261 1 1459709225
+/xmlrpc.php
+52.35.69.26
+0 4 2 97547 1 1460100040
+/
+194.63.249.235
+0 2 0 522 2 1460469619
+/xmlrpc.php
+37.97.152.58
+0 3 0 783 3 1460483890
+/xmlrpc.php
+62.210.250.66
+0 4 2 97262 2 1460569322
+/
+31.131.249.217
+0 2 0 23890 1 1459856588
+-
+204.79.180.46
+0 1 1 44 0 0
+-
+31.131.249.220
+0 4 2 120733 2 1460590538
+/
+180.76.15.146
+0 2 0 516 2 1460429784
+/
+45.79.89.188
+0 7 5 710 2 1460332849
+/
+107.189.60.72
+0 45 44 931418 1 1460150475
+/
+179.188.11.244
+0 1 0 261 1 1460224155
+/xmlrpc.php
+40.77.167.27
+0 5 1 24841 3 1460305237
+-
+138.201.30.91
+0 1 0 261 0 0
+-
+46.28.105.92
+0 1 0 261 1 1459682046
+/xmlrpc.php
+40.77.167.90
+0 5 1 74634 3 1459904980
+-
+200.98.255.198
+0 1 0 261 1 1459650155
+/xmlrpc.php
+66.220.146.21
+0 1 1 48475 1 1460679595
+/
+5.153.10.228
+0 1 0 261 1 1459709207
+/xmlrpc.php
+180.191.118.92
+0 2 1 48673 1 1459890338
+/
+174.136.28.87
+0 4 0 1044 4 1460270133
+/xmlrpc.php
+207.46.13.22
+0 9 6 69200 2 1460035836
+/portfolio/amet-sollicitudin/
+51.255.65.29
+0 1 0 23509 1 1459996285
+-
+37.187.56.66
+0 3 2 48827 1 1459758040
+/
+212.172.221.6
+0 1 0 261 1 1459732135
+/xmlrpc.php
+45.33.145.43
+0 2 2 157518 1 1459609001
+/package/anahi-yacht-2/
+188.93.230.31
+0 3 0 783 3 1460822898
+/xmlrpc.php
+173.252.95.11
+0 2 2 188871 0 0
+-
+195.154.241.120
+0 730 729 4809741 1 1460391785
+/wp-login.php
+164.132.161.19
+0 2 1 51233 2 1460674141
+-
+94.73.146.41
+0 1 0 261 1 1459880263
+/xmlrpc.php
+207.46.13.123
+0 7 6 220316 1 1459515044
+/package/anahi-yacht-2/
+182.50.132.104
+0 1 0 261 1 1459758008
+/xmlrpc.php
+5.39.17.245
+0 1 0 261 1 1459852230
+/xmlrpc.php
+164.132.161.86
+0 3 0 70550 2 1459826775
+-
+46.30.211.136
+0 1 0 261 1 1459890023
+/xmlrpc.php
+180.76.15.139
+0 5 4 90300 4 1460922219
+/contact/
+51.255.65.96
+0 2 2 25128 2 1459736019
+/tag/news/
+75.103.66.9
+0 1 0 261 1 1460612177
+/xmlrpc.php
+78.110.50.106
+0 1 0 261 1 1460247203
+/xmlrpc.php
+37.187.75.173
+0 1 0 261 1 1460276675
+/xmlrpc.php
+81.177.135.201
+0 1 0 261 1 1460239167
+/xmlrpc.php
+110.4.45.192
+0 1 0 261 1 1460319352
+/xmlrpc.php
+94.73.146.170
+0 1 0 261 1 1460363809
+/xmlrpc.php
+50.62.177.157
+0 2 0 522 2 1460938949
+/xmlrpc.php
+91.77.23.44
+0 6 5 152851 1 1459942826
+/contact/
+62.76.184.71
+0 2 0 486 1 1459567205
+/
+177.12.163.97
+0 1 0 261 1 1459642545
+/xmlrpc.php
+178.162.209.232
+0 3 0 885 1 1459477156
+-
+204.79.180.73
+0 1 1 31683 0 0
+-
+202.46.58.89
+0 1 0 243 1 1459478011
+-
+79.170.40.178
+0 1 0 261 1 1460641895
+/xmlrpc.php
+45.79.81.142
+0 6 4 48738 2 1460166519
+/
+157.55.39.46
+0 1 0 23539 1 1459715995
+-
+89.46.104.191
+0 2 0 522 2 1460585376
+/xmlrpc.php
+100.43.81.130
+0 2 2 81506 1 1460650846
+/
+51.255.65.26
+0 1 0 23509 1 1460269219
+-
+103.6.198.224
+0 1 0 261 1 1460194294
+/xmlrpc.php
+64.90.40.104
+0 1 0 261 1 1460391130
+/xmlrpc.php
+176.31.234.53
+0 2 1 20204 1 1460821799
+/wp-admin/admin-ajax.php
+211.13.204.1
+0 1 0 261 1 1460505535
+/xmlrpc.php
+51.255.65.69
+0 2 0 47018 2 1460678039
+-
+164.132.161.28
+0 1 0 23509 1 1459990302
+-
+207.46.13.188
+0 1 0 23509 0 0
+-
+92.171.107.190
+0 1 1 75996 0 0
+-
+46.30.241.10
+0 1 0 261 1 1460128588
+/xmlrpc.php
+85.252.49.19
+0 1 0 261 1 1460152292
+/xmlrpc.php
+81.177.24.60
+0 1 0 261 1 1459721395
+/xmlrpc.php
+64.74.215.113
+0 4 2 0 2 1460492916
+/
+51.255.65.72
+0 3 3 77061 2 1459788270
+/luxury-class-yachts/
+85.128.142.41
+0 1 0 261 1 1459752033
+/xmlrpc.php
+50.87.140.150
+0 2 0 522 2 1460674439
+/xmlrpc.php
+104.237.128.130
+0 4 4 192 1 1460110152
+/wp-admin/admin-ajax.php
+151.236.51.75
+0 4 0 1044 4 1460673052
+/xmlrpc.php
+94.231.107.206
+0 2 0 522 2 1460466673
+/xmlrpc.php
+198.71.224.81
+0 2 0 522 2 1460442698
+/xmlrpc.php
+194.54.81.150
+0 3 0 783 3 1460941867
+/xmlrpc.php
+46.28.105.88
+0 4 0 1044 4 1460424303
+/xmlrpc.php
+89.221.250.18
+0 1 0 261 1 1459609023
+/xmlrpc.php
+146.185.150.137
+0 1 0 261 1 1459785637
+/xmlrpc.php
+45.79.192.111
+0 1 1 48 1 1460109664
+/wp-admin/admin-ajax.php
+65.55.213.193
+0 38 38 77811 0 0
+-
+207.241.229.225
+0 3 3 284 0 0
+-
+180.76.15.8
+0 2 1 310 1 1460807394
+/
+185.33.118.14
+0 1 0 261 1 1460699010
+/xmlrpc.php
+188.93.144.51
+0 1 0 261 1 1459709112
+/xmlrpc.php
+180.76.15.11
+0 1 1 24844 1 1459628560
+/portfolio-tag/package/
+157.55.39.239
+0 2 1 534 1 1459723724
+-
+202.46.55.156
+0 1 0 243 1 1460504888
+/
+91.238.72.79
+0 1 0 261 1 1460902763
+/xmlrpc.php
+192.241.160.244
+0 81 81 3841 2 1460137192
+/wp-admin/admin-ajax.php
+164.132.161.60
+0 2 2 30730 2 1459810065
+/portfolio/donec-ullamcorper/
+176.223.208.24
+0 1 0 261 1 1459985203
+/xmlrpc.php
+164.132.161.11
+0 1 0 23539 1 1460072013
+-
+46.235.47.88
+0 1 0 261 1 1460917562
+/xmlrpc.php
+208.115.113.82
+0 40 0 10440 0 0
+-
+69.58.178.57
+0 13 13 375964 1 1460229978
+/galapagos-information/
+157.55.39.132
+0 1 0 23509 1 1460676599
+-
+100.43.91.15
+0 1 1 32339 0 0
+-
+46.148.22.18
+0 13 13 831895 12 1459952588
+/xmlrpc.php
+164.132.161.69
+0 1 0 23509 1 1460237717
+-
+197.231.221.211
+0 3 0 833 2 1460925645
+/
+51.255.48.153
+0 1 0 261 0 0
+-
+217.70.180.225
+0 1 0 261 1 1460924896
+/xmlrpc.php
+216.119.129.194
+0 1 0 261 1 1459845043
+/xmlrpc.php
+103.25.104.10
+0 1 0 261 1 1460183862
+/xmlrpc.php
+51.255.65.63
+0 1 0 23509 1 1459573616
+-
+176.223.207.3
+0 1 0 261 1 1460175623
+/xmlrpc.php
+51.255.65.71
+0 1 1 40672 1 1459920062
+/package/new-flamigo-yacht/
+178.210.172.38
+0 2 0 522 2 1460857572
+/xmlrpc.php
+193.90.12.86
+0 1 0 243 1 1459814838
+/
+164.132.161.44
+0 3 2 65511 3 1460523737
+-
+210.157.22.61
+0 1 0 261 1 1460869097
+/xmlrpc.php
+46.118.29.191
+0 2 2 8858 1 1460942959
+/wp-login.php
+94.73.148.154
+0 3 0 783 3 1460758120
+/xmlrpc.php
+92.53.114.3
+0 1 0 261 1 1459740636
+/xmlrpc.php
+75.98.160.130
+0 2 0 522 2 1460063809
+/xmlrpc.php
+85.248.227.164
+0 1 0 243 1 1460877509
+/
+164.132.161.81
+0 1 0 23509 1 1459942896
+-
+82.165.172.152
+0 2 0 522 2 1460267661
+/xmlrpc.php
+204.79.180.56
+0 1 1 21095 0 0
+-
+46.59.102.201
+0 2 0 522 2 1460186470
+/xmlrpc.php
+103.29.212.186
+0 1 0 261 1 1460468762
+/xmlrpc.php
+38.100.21.68
+0 11 10 384452 1 1460110132
+/package/eco-galaxy-yacht/
+202.46.54.204
+0 1 1 48269 1 1459478015
+/
+98.178.161.230
+0 1282 1195 64543241 13 1460928482
+/package/eclipse-yacht/
+185.13.226.228
+0 1 0 261 1 1459753532
+/xmlrpc.php
+14.1.20.10
+0 1 0 261 1 1459698643
+/xmlrpc.php
+40.77.167.58
+0 4 1 24451 2 1460143852
+-
+31.220.17.48
+0 1 0 261 1 1460440587
+/xmlrpc.php
+79.96.212.234
+0 1 0 261 1 1460230447
+/xmlrpc.php
+94.73.151.61
+0 1 0 261 1 1460567533
+/xmlrpc.php
+185.55.224.24
+0 1 0 261 1 1459751795
+/xmlrpc.php
+141.8.143.236
+0 2 1 26726 1 1460734134
+-
+82.223.22.211
+0 2 0 522 2 1460765285
+/xmlrpc.php
+94.73.151.80
+0 1 0 261 1 1460425613
+/xmlrpc.php
+190.121.21.211
+0 3 0 783 3 1460637701
+/xmlrpc.php
+37.140.192.17
+0 1 0 261 1 1460551044
+/xmlrpc.php
+89.221.250.6
+0 1 0 261 1 1460247229
+/xmlrpc.php
+62.109.29.118
+0 4 0 1434 1 1460076855
+-
+77.221.130.38
+0 1 0 261 1 1460300029
+/xmlrpc.php
+68.64.168.82
+0 2 0 23893 1 1460645732
+-
+186.202.127.163
+0 1 0 261 1 1460002857
+/xmlrpc.php
+195.154.250.216
+0 730 729 4809741 1 1460693019
+/wp-login.php
+209.200.16.51
+0 2 0 522 2 1460641704
+/xmlrpc.php
+195.154.235.96
+0 730 729 4809741 1 1459660335
+/wp-login.php
+94.73.146.179
+0 1 0 261 1 1460930229
+/xmlrpc.php
+188.138.41.210
+0 2 1 48644 1 1460600553
+/
+217.31.57.24
+0 2 0 522 2 1460862418
+/xmlrpc.php
+178.210.89.89
+0 5 0 1305 5 1460687021
+/xmlrpc.php
+185.7.35.104
+0 3 0 783 3 1460654966
+/xmlrpc.php
+109.71.40.22
+0 3 0 783 3 1460451679
+/xmlrpc.php
+178.32.219.189
+0 2 0 522 2 1460682412
+/xmlrpc.php
+100.43.81.152
+0 1 0 23509 0 0
+-
+175.107.181.236
+0 1 0 261 1 1460274540
+/xmlrpc.php
+159.253.0.125
+0 1 0 261 1 1460550288
+/xmlrpc.php
+204.79.180.187
+0 1 1 53010 0 0
+-
+220.181.51.80
+0 1 1 48457 1 1460283858
+/
+198.1.110.182
+0 6 0 1566 6 1460594645
+/xmlrpc.php
+198.98.103.191
+0 2 0 522 2 1459787654
+/xmlrpc.php
+213.251.182.102
+0 3 0 783 3 1460766540
+/xmlrpc.php
+94.73.148.164
+0 1 0 261 1 1459940839
+/xmlrpc.php
+51.255.65.76
+0 2 2 30232 2 1459997409
+/portfolio/quam-purus/
+217.16.27.48
+0 1 0 261 1 1460042432
+/xmlrpc.php
+31.131.251.5
+0 1 0 261 1 1459721414
+/xmlrpc.php
+193.180.115.103
+0 1 0 261 1 1459629617
+/xmlrpc.php
+184.168.152.49
+0 1 0 261 1 1460177524
+/xmlrpc.php
+46.166.186.245
+0 1 0 274 1 1459492288
+-
+199.30.228.134
+0 68 67 3165931 1 1460027754
+/
+202.52.146.74
+0 1 0 261 1 1460550735
+/xmlrpc.php
+217.199.187.73
+0 1 0 261 1 1460042223
+/xmlrpc.php
+173.255.243.26
+0 2 1 142 1 1459958244
+/
+173.252.95.15
+0 2 2 65928 0 0
+-
+51.255.65.44
+0 1 0 23509 1 1459540500
+-
+141.8.143.235
+0 1 1 48453 1 1459522262
+/
+89.161.216.232
+0 1 0 261 1 1460841291
+/xmlrpc.php
+66.147.244.160
+0 1 1 48366 1 1459581271
+/
+62.128.51.151
+0 1 0 261 1 1460170349
+/xmlrpc.php
+204.79.180.214
+0 1 1 22019 0 0
+-
+216.239.136.52
+0 1 0 261 1 1460213516
+/xmlrpc.php
+77.81.243.139
+0 1 0 261 1 1459619102
+/xmlrpc.php
+204.79.180.27
+0 1 1 8301 0 0
+-
+204.79.180.143
+0 1 1 11200 0 0
+-
+157.55.39.22
+0 8 7 260999 2 1459595212
+/package/galapagos-express-4d-3n/
+37.120.176.205
+0 1 0 261 1 1460753745
+/xmlrpc.php
+67.231.241.130
+0 1 1 48424 1 1459581270
+/
+204.79.180.116
+0 1 1 1673 0 0
+-
+81.22.103.65
+0 1 0 261 1 1460919709
+/xmlrpc.php
+186.202.153.36
+0 1 0 261 1 1460690250
+/xmlrpc.php
+51.255.65.13
+0 1 0 23509 1 1459566450
+-
+37.16.0.35
+0 1 0 261 1 1459618944
+/xmlrpc.php
+216.172.189.110
+0 1 0 261 1 1460167768
+/xmlrpc.php
+54.210.18.124
+0 17 17 2414 0 0
+-
+51.255.65.12
+0 1 1 30027 1 1459810000
+/portfolio/donec-ullamcorper/
+31.210.99.107
+0 1 0 261 1 1459882933
+/xmlrpc.php
+51.255.65.21
+0 1 0 23509 1 1459956594
+-
+164.132.161.67
+0 1 1 901 1 1459520341
+/category/blog/feed/
+94.73.148.140
+0 1 0 261 1 1459942505
+/xmlrpc.php
+164.132.161.58
+0 1 0 23509 0 0
+-
+202.46.53.47
+0 1 1 48326 1 1460504892
+/
+50.87.5.155
+0 1 0 261 1 1459709221
+/xmlrpc.php
+204.79.180.195
+0 1 1 95952 0 0
+-
+46.229.230.48
+0 2 0 522 2 1460919681
+/xmlrpc.php
+69.163.152.117
+0 1 0 261 1 1460415947
+/xmlrpc.php
+89.161.231.28
+0 1 0 261 1 1459740631
+/xmlrpc.php
+66.249.69.159
+0 1 0 380 1 1460132183
+-
+5.101.65.138
+0 1 0 295 1 1459477075
+-
+51.255.65.85
+0 2 0 47018 2 1459997285
+-
+113.29.226.2
+0 1 1 48322 1 1459599080
+/
+141.138.168.120
+0 1 0 261 1 1460140116
+/xmlrpc.php
+61.160.195.5
+0 2 0 502 1 1459773659
+/
+109.172.41.164
+0 1 0 261 1 1460763672
+/xmlrpc.php
+82.102.10.120
+0 1 0 261 1 1459834164
+/xmlrpc.php
+80.241.223.226
+0 1 0 261 1 1459701771
+/xmlrpc.php
+94.231.103.89
+0 2 0 522 2 1460565032
+/xmlrpc.php
+94.242.228.107
+0 2 0 548 1 1459492175
+-
+204.79.180.196
+0 1 1 53010 0 0
+-
+51.255.65.92
+0 2 1 24202 2 1459953549
+-
+164.132.161.94
+0 1 1 703 1 1459620718
+/full-thumbnail-left-sidebar/feed/
+202.46.48.208
+0 1 1 48511 1 1460858380
+/
+209.183.221.23
+0 1 0 261 1 1459801257
+/xmlrpc.php
+185.26.122.43
+0 2 0 522 2 1460140289
+/xmlrpc.php
+74.220.215.220
+0 1 0 261 1 1460343370
+/xmlrpc.php
+51.255.65.54
+0 3 2 48882 2 1459564578
+/tag/computer/
+94.73.148.80
+0 1 0 261 1 1460442488
+/xmlrpc.php
+180.76.15.147
+0 1 1 5092 0 0
+-
+202.46.53.46
+0 1 1 48401 1 1460384166
+/
+51.255.65.2
+0 2 0 47018 2 1459832082
+-
+216.194.173.196
+0 1 0 261 1 1459727708
+/xmlrpc.php
+184.72.253.170
+0 9 9 581358 0 0
+-
+94.73.148.218
+0 1 0 261 1 1460300174
+/xmlrpc.php
+94.73.151.180
+0 1 1 48410 1 1459579982
+/
+51.255.65.32
+0 2 2 41357 2 1460566921
+/package/new-flamigo-yacht/
+72.55.186.56
+0 1 0 261 1 1460208104
+/xmlrpc.php
+187.17.106.121
+0 1 0 261 1 1460130686
+/xmlrpc.php
+66.249.69.111
+0 63 53 1102172 20 1460811689
+-
+141.8.143.143
+0 5 3 120120 4 1460755907
+/category/holiday/
+109.123.85.13
+0 3 0 783 3 1460784336
+/xmlrpc.php
+128.199.218.99
+0 1 0 261 1 1459959881
+/xmlrpc.php
+52.36.31.151
+0 2 1 4312 1 1460840732
+-
+95.181.179.162
+0 2 0 84 2 1459586872
+/xmlrpc.php
+46.28.105.136
+0 1 0 261 1 1460919271
+/xmlrpc.php
+82.98.157.192
+0 1 0 261 1 1460247240
+/xmlrpc.php
+151.112.187.106
+0 468 387 30366493 4 1460931513
+/
+69.195.105.41
+0 1 0 261 1 1459673407
+/xmlrpc.php
+94.231.108.221
+0 1 0 261 1 1460489722
+/xmlrpc.php
+103.15.156.8
+0 1 0 261 1 1460441762
+/xmlrpc.php
+51.255.51.249
+0 1 0 261 0 0
+-
+192.42.116.16
+0 2 0 590 1 1459477083
+-
+50.116.27.113
+0 272 225 4440408 1 1460131273
+/wp-admin/admin-ajax.php
+88.198.6.68
+0 1 0 261 1 1459910348
+/xmlrpc.php
+100.43.90.11
+0 2 2 48450 1 1460356243
+/
+103.6.198.213
+0 3 0 783 3 1460830393
+/xmlrpc.php
+192.145.239.25
+0 1 0 261 1 1459631717
+/xmlrpc.php
+157.55.39.116
+0 7 1 94978 4 1460647808
+-
+187.45.195.136
+0 1 0 261 1 1459934893
+/xmlrpc.php
+62.210.152.87
+0 1 1 3928 1 1460926346
+/wp-login.php
+164.132.161.87
+0 2 1 24236 2 1460713778
+-
+37.152.88.35
+0 1 0 261 1 1459622411
+/xmlrpc.php
+46.21.172.135
+0 2 0 522 2 1460163306
+/xmlrpc.php
+159.253.33.227
+0 3 0 783 3 1460622077
+/xmlrpc.php
+120.52.72.23
+0 2 1 71983 1 1459577246
+/
+207.46.13.86
+0 3 1 938 1 1459722409
+/portfolio/amet-sollicitudin/
+103.249.84.101
+0 1 0 261 1 1460178745
+/xmlrpc.php
+181.224.129.10
+0 1 0 261 1 1459807101
+/xmlrpc.php
+157.55.39.243
+0 1 0 23509 1 1460693936
+-
+180.76.15.16
+0 5 2 101693 5 1460939100
+/package/ecuador-amazon-8d-7n/
+204.79.180.59
+0 1 1 14222 0 0
+-
+51.255.65.55
+0 2 1 24410 2 1460266145
+/category/blog/feed/
+204.79.180.118
+0 1 1 31683 0 0
+-
+92.243.6.160
+0 1 0 261 1 1460389370
+/xmlrpc.php
+192.169.255.4
+0 47 0 802288 1 1460942510
+-
+81.177.135.221
+0 2 0 522 2 1460689380
+/xmlrpc.php
+173.252.90.233
+0 1 1 48351 1 1460676615
+/
+51.255.65.16
+0 1 0 23509 1 1459531531
+-
+195.54.32.43
+0 1 0 243 1 1459617587
+/
+141.8.143.151
+0 3 1 47177 1 1460734379
+-
+91.207.158.114
+0 4 0 1044 4 1460838873
+/xmlrpc.php
+197.242.149.77
+0 5 0 1533 1 1460510336
+-
+100.43.90.8
+0 4 3 60710 1 1460931056
+-
+200.63.252.166
+0 639 610 14991419 2 1459788014
+/wp-admin/admin-ajax.php
+212.85.114.2
+0 1 0 261 1 1460518440
+/xmlrpc.php
+200.98.197.67
+0 2 0 522 2 1460307419
+/xmlrpc.php
+37.16.0.56
+0 1 0 261 1 1459618900
+/xmlrpc.php
+107.170.251.93
+0 1 0 261 1 1460161921
+/xmlrpc.php
+195.63.61.2
+0 1 0 261 1 1460593999
+/xmlrpc.php
+209.159.137.59
+0 1 1 48314 1 1460925647
+/
+202.46.50.83
+0 1 1 48369 1 1460096604
+/
+187.17.106.196
+0 1 0 261 1 1460880257
+/xmlrpc.php
+195.154.230.160
+0 730 729 4809741 1 1460334784
+/wp-login.php
+178.32.139.95
+0 2 0 522 2 1460500942
+/xmlrpc.php
+81.177.140.71
+0 1 0 261 1 1460298563
+/xmlrpc.php
+5.101.156.74
+0 1 0 261 1 1460641828
+/xmlrpc.php
+180.76.15.17
+0 1 0 243 1 1459724308
+/
+51.255.65.7
+0 1 0 23509 1 1459968180
+-
+194.63.248.122
+0 1 0 261 1 1460618060
+/xmlrpc.php
+131.72.139.212
+0 4 2 73405 1 1460742955
+/author/admin/
+164.132.161.76
+0 1 1 695 1 1459677551
+/personnel-shortcode/feed/
+91.238.72.82
+0 1 0 261 1 1459833459
+/xmlrpc.php
+213.251.182.105
+0 2 0 522 2 1460930002
+/xmlrpc.php
+187.45.193.169
+0 1 0 261 1 1460827023
+/xmlrpc.php
+80.65.58.16
+0 1 0 261 1 1460595116
+/xmlrpc.php
+180.76.15.161
+0 1 1 78182 1 1459577715
+/package/anahi-yacht-2/
+69.175.22.218
+0 67 55 1440696 2 1460803838
+/wp-login.php
+40.77.167.31
+0 2 0 47018 1 1460751510
+-
+164.132.161.34
+0 1 1 703 1 1459806497
+/full-thumbnail-both-sidebar/feed/
+62.129.221.110
+0 1 0 261 1 1460822890
+/xmlrpc.php
+37.187.78.222
+0 1 0 261 1 1460359406
+/xmlrpc.php
+94.231.103.25
+0 1 0 261 1 1459936331
+/xmlrpc.php
+149.210.238.39
+0 1 0 261 1 1459721468
+/xmlrpc.php
+69.171.228.119
+0 1 1 33335 0 0
+-
+208.115.113.94
+0 1 0 261 0 0
+-
+204.79.180.197
+0 1 1 3386 0 0
+-
+204.79.180.108
+0 1 1 2781 0 0
+-
+192.185.4.73
+0 1 1 48464 1 1459579577
+/
+149.210.211.171
+0 3 0 783 3 1460523488
+/xmlrpc.php
+162.144.16.50
+0 1 0 261 1 1459767267
+/xmlrpc.php
+185.70.11.230
+0 1 0 261 1 1460670893
+/xmlrpc.php
+40.77.167.51
+0 2 0 47018 0 0
+-
+77.244.243.20
+0 1 0 261 1 1459709096
+/xmlrpc.php
+91.221.106.20
+0 1 0 243 1 1460179945
+/
+204.79.180.182
+0 1 1 56423 0 0
+-
+157.55.39.232
+0 46 21 955730 15 1460653706
+/package/sacha-lodge/
+185.92.246.115
+0 1 0 261 1 1459867237
+/xmlrpc.php
+180.76.15.33
+0 4 2 91792 4 1460917247
+/
+91.121.161.167
+0 1 1 27161 1 1460624197
+/contact/
+87.106.65.239
+0 1 0 261 1 1459932568
+/xmlrpc.php
+51.255.65.58
+0 1 1 683 1 1459839302
+/video-2/feed/
+192.64.84.50
+0 2 0 522 2 1460679546
+/xmlrpc.php
+212.63.209.201
+0 2 0 522 2 1460682619
+/xmlrpc.php
+164.132.161.47
+0 2 1 59600 2 1460699907
+-
+66.249.69.153
+0 2 1 385 1 1460778591
+/
+164.132.161.63
+0 2 0 47051 2 1460365266
+-
+92.63.87.118
+0 5 5 97663 4 1460821686
+/xmlrpc.php
+164.132.161.23
+0 3 1 71478 3 1459994304
+-
+208.113.248.198
+0 1 0 261 1 1460223535
+/xmlrpc.php
+79.170.44.133
+0 1 0 261 1 1459707962
+/xmlrpc.php
+157.55.39.17
+0 15 12 235069 1 1460196238
+-
+204.79.180.69
+0 1 1 14222 0 0
+-
+141.138.168.134
+0 1 0 261 1 1460539496
+/xmlrpc.php
+50.62.176.22
+0 1 0 261 1 1460594967
+/xmlrpc.php
+107.6.186.26
+0 1 0 261 1 1460460560
+/xmlrpc.php
+51.255.65.24
+0 3 2 59484 3 1460030725
+/package-4-columns-2nd-style/feed/
+131.253.25.158
+0 21 21 449262 0 0
+-
+157.55.39.57
+0 3 1 47160 1 1459567489
+-
+85.128.142.59
+0 1 0 261 1 1459761856
+/xmlrpc.php
+178.208.83.9
+0 1 0 261 1 1460310978
+/xmlrpc.php
+164.132.161.24
+0 2 1 53180 2 1459602423
+-
+202.46.48.125
+0 1 1 48388 1 1460431788
+/
+180.76.15.140
+0 2 2 89248 2 1460692428
+/package/la-pinta-yacht/
+204.79.180.103
+0 1 1 48528 1 1460261230
+/
+204.79.180.102
+0 1 1 2781 0 0
+-
+164.132.161.71
+0 1 1 697 1 1460324972
+/portfolio-4-columns-2/feed/
+187.45.195.184
+0 1 0 261 1 1460366120
+/xmlrpc.php
+52.36.0.112
+0 2 1 4184 1 1460449012
+/
+202.46.58.204
+0 1 1 48474 1 1460187626
+/
+110.4.45.236
+0 1 0 261 1 1459744071
+/xmlrpc.php
+69.84.207.246
+0 23 18 370797 1 1460809939
+/amazon-information/
+68.180.230.43
+0 99 62 1666266 51 1460944478
+/galapagos-information/feed/
+93.95.221.122
+0 1 0 261 1 1459709096
+/xmlrpc.php
+187.95.207.7
+0 1 0 261 1 1459711876
+/xmlrpc.php
+66.96.183.195
+0 533 533 0 350 1460944268
+/wp-cron.php
+164.132.161.12
+0 1 0 23509 1 1459733247
+-
+50.87.249.65
+0 1 0 261 1 1460008084
+/xmlrpc.php
+94.73.148.180
+0 1 0 261 1 1460392187
+/xmlrpc.php
+173.252.95.8
+0 4 4 102785 0 0
+-
+185.26.122.99
+0 1 0 261 1 1460629435
+/xmlrpc.php
+51.255.65.86
+0 2 0 23913 2 1460501559
+-
+184.172.4.74
+0 1 0 261 1 1460333623
+/xmlrpc.php
+167.250.5.6
+0 1 0 261 1 1459827386
+/xmlrpc.php
+13.90.209.35
+0 6 4 76202 1 1459977025
+/contact/
+207.46.13.53
+0 3 3 86190 3 1460658789
+/first-class-yachts/
+51.254.94.146
+0 2 0 522 2 1460545429
+/xmlrpc.php
+217.79.179.163
+0 1 0 261 1 1460416380
+/xmlrpc.php
+51.255.65.49
+0 1 1 31121 1 1459764001
+/portfolio/ornare-malesuada/
+164.132.161.95
+0 1 1 692 1 1459555167
+/creating-gallery/feed/
+141.8.143.197
+0 1 1 33467 0 0
+-
+64.207.136.22
+0 1 0 261 1 1459694639
+/xmlrpc.php
+81.177.135.61
+0 2 0 522 2 1460870151
+/xmlrpc.php
+192.187.114.11
+0 5 3 57083 1 1460336228
+/wp-login.php
+212.90.148.72
+0 1 0 261 1 1460838903
+/xmlrpc.php
+188.165.204.139
+0 1 0 261 1 1459833825
+/xmlrpc.php
+89.46.104.166
+0 2 0 522 2 1460247076
+/xmlrpc.php
+176.123.7.23
+0 4 1 4958 1 1460501470
+/wp-login.php
+141.8.143.181
+0 1 1 29746 1 1460932363
+/portfolio/justo-malesuada-ullamcorper/
+66.249.69.147
+0 1 1 142 0 0
+-
+204.79.180.75
+0 1 1 1103 0 0
+-
+68.4.228.214
+0 5 3 52556 1 1460674173
+/xmlrpc.php
+164.132.161.51
+0 1 1 690 1 1459584617
+/blog-4-columns/feed/
+50.87.200.102
+0 1 0 261 1 1459935728
+/xmlrpc.php
+212.21.66.6
+0 2 0 548 1 1459492187
+-
+202.46.56.111
+0 1 0 243 1 1460187621
+/
+185.12.94.56
+0 1 0 261 1 1459709180
+/xmlrpc.php
+92.53.96.78
+0 1 0 261 1 1460880232
+/xmlrpc.php
+204.79.180.151
+0 1 1 37782 0 0
+-
+109.106.171.128
+0 1 0 261 1 1459724504
+/xmlrpc.php
+92.53.126.118
+0 1 0 261 1 1460489674
+/xmlrpc.php
+95.142.162.137
+0 2 0 522 2 1460372637
+/xmlrpc.php
+134.249.55.71
+0 3 1 48896 1 1460452852
+/
+164.132.161.29
+0 1 1 24523 1 1459532015
+/category/conference/
+66.249.69.103
+0 96 85 1690210 24 1460944265
+/package/anakonda-amazon-river-cruise/
+78.46.65.201
+0 2 0 522 2 1460228348
+/xmlrpc.php
+164.132.161.61
+0 4 1 94998 4 1460315943
+/tag/travel/
+204.79.180.2
+0 1 1 1088 0 0
+-
+91.238.72.77
+0 1 0 261 1 1460664363
+/xmlrpc.php
+141.8.143.186
+0 1 0 23509 1 1460898405
+-
+173.254.86.44
+0 1 0 261 1 1460008162
+/xmlrpc.php
+64.150.191.73
+0 1 0 261 1 1459753200
+/xmlrpc.php
+208.113.248.103
+0 1 0 261 1 1460042278
+/xmlrpc.php
+51.255.65.40
+0 1 1 5092 0 0
+-
+195.74.65.12
+0 1 0 261 1 1459701732
+/xmlrpc.php
+103.6.198.225
+0 2 0 522 2 1459740645
+/xmlrpc.php
+79.96.137.78
+0 1 0 261 1 1460757612
+/xmlrpc.php
+23.91.70.59
+0 4 0 0 1 1459981821
+-
+65.39.211.243
+0 2 0 522 2 1459882965
+/xmlrpc.php
+94.73.146.233
+0 1 0 261 1 1460646247
+/xmlrpc.php
+62.219.67.25
+0 2 0 522 2 1460744555
+/xmlrpc.php
+95.181.171.220
+0 1 0 261 1 1460376215
+/xmlrpc.php
+79.172.201.186
+0 1 0 261 1 1460560172
+/xmlrpc.php
+173.252.95.13
+0 1 1 43011 0 0
+-
+164.132.161.6
+0 2 2 77944 2 1459727085
+/portfolio/praesent-commodo-cursus/
+204.79.180.34
+0 1 1 23097 0 0
+-
+89.46.104.179
+0 1 0 261 1 1459709110
+/xmlrpc.php
+79.96.187.83
+0 1 0 261 1 1460518430
+/xmlrpc.php
+94.199.180.228
+0 1 0 261 1 1460270422
+/xmlrpc.php
+209.124.66.9
+0 1 0 261 1 1460506581
+/xmlrpc.php
+186.228.190.135
+0 5 3 52556 1 1460454666
+/xmlrpc.php
+94.23.8.149
+0 1 0 261 1 1460050373
+/xmlrpc.php
+180.76.15.30
+0 2 2 88946 2 1460592037
+/package/new-flamigo-yacht/
+204.79.180.235
+0 1 1 27192 0 0
+-
+213.111.197.198
+0 262 261 1187859 2 1459919577
+/wp-login.php
+157.55.39.207
+0 2 0 47018 1 1460902239
+-
+51.255.65.83
+0 1 1 48302 1 1459541189
+/
+51.255.65.18
+0 2 0 47041 2 1460354034
+-
+192.126.141.218
+0 2 2 157518 1 1459865449
+/package/anahi-yacht-2/
+107.170.57.7
+0 1 0 261 1 1460838828
+/xmlrpc.php
+31.220.17.21
+0 1 0 261 1 1459721430
+/xmlrpc.php
+91.217.254.14
+0 1 0 261 1 1459970993
+/xmlrpc.php
+54.233.149.186
+0 2 1 48665 2 1459872634
+/
+85.128.142.40
+0 1 0 261 1 1459650844
+/xmlrpc.php
+141.8.143.168
+0 1 1 5231 0 0
+-
+199.103.60.135
+0 1 0 261 1 1459644106
+/xmlrpc.php
+178.62.88.186
+0 1 0 261 1 1459780477
+/xmlrpc.php
+204.79.180.8
+0 1 1 3829 0 0
+-
+173.236.176.116
+0 1 0 261 1 1460806981
+/xmlrpc.php
+186.202.153.27
+0 1 0 261 1 1460838749
+/xmlrpc.php
+85.118.128.42
+0 1 0 261 1 1459655099
+/xmlrpc.php
+69.163.172.154
+0 1 0 261 1 1460320834
+/xmlrpc.php
+204.79.180.125
+0 2 2 9404 0 0
+-
+204.79.180.5
+0 1 1 7200 0 0
+-
+180.76.15.19
+0 5 3 148221 5 1460826279
+/package/ecuador-paradise-5d-4n/
+46.229.230.33
+0 3 0 783 3 1460581993
+/xmlrpc.php
+62.210.185.3
+0 1 0 261 1 1459740655
+/xmlrpc.php
+51.255.65.23
+0 1 0 23509 1 1459841881
+-
+91.222.138.177
+0 1 0 261 1 1459670785
+/xmlrpc.php
+46.185.31.231
+0 2 2 8858 1 1460695834
+/wp-login.php
+85.31.185.2
+0 5 0 1305 5 1460508574
+/xmlrpc.php
+164.132.161.42
+0 2 1 49075 2 1460529119
+-
+77.221.130.55
+0 2 0 522 2 1460772929
+/xmlrpc.php
+51.255.65.3
+0 1 0 404 1 1460023688
+-
+94.73.151.128
+0 1 0 261 1 1460399080
+/xmlrpc.php
+213.212.61.147
+0 2 0 522 2 1459709034
+/xmlrpc.php
+187.17.106.98
+0 1 0 261 1 1460474111
+/xmlrpc.php
+89.161.238.221
+0 3 0 783 3 1460591520
+/xmlrpc.php
+186.202.153.5
+0 1 0 261 1 1459911633
+/xmlrpc.php
+40.77.167.54
+0 15 9 239990 4 1459927074
+-
+216.172.189.125
+0 1 0 261 1 1460797859
+/xmlrpc.php
+216.187.70.32
+0 1 0 261 1 1460243170
+/xmlrpc.php
+91.234.146.97
+0 3 0 783 3 1459746445
+/xmlrpc.php
+207.46.13.110
+0 3 1 47190 2 1459682020
+-
+204.79.180.105
+0 1 1 2306 0 0
+-
+164.132.161.38
+0 1 1 29880 1 1460052883
+/portfolio/sollicitudin-pharetra-porta/
+100.43.85.18
+0 64 39 1111639 26 1460849635
+-
+195.206.253.146
+0 504 504 2470212 4 1460734381
+/wp-login.php
+51.255.65.64
+0 1 1 30309 1 1460692631
+/expedition-packages/
+155.133.82.112
+0 8 8 641998 1 1460392805
+/xmlrpc.php
+207.46.13.26
+0 1 0 23509 1 1460905713
+-
+180.76.15.29
+0 1 1 78182 1 1459504587
+/package/anahi-yacht-2/
+46.17.69.25
+0 2 0 522 2 1459980851
+/xmlrpc.php
+180.76.15.15
+0 5 2 4994 3 1460939096
+-
+40.77.167.82
+0 4 4 100318 3 1460795624
+/tourist-economic-class/
+192.163.196.212
+0 1 0 261 1 1459773981
+/xmlrpc.php
+186.202.153.18
+0 1 0 261 1 1460334228
+/xmlrpc.php
+173.254.202.145
+0 1 0 261 1 1460253872
+/xmlrpc.php
+92.53.96.101
+0 1 0 261 1 1459939835
+/xmlrpc.php
+148.163.122.2
+0 1 0 261 1 1459778176
+/xmlrpc.php
+212.193.234.122
+0 1 0 261 1 1460457394
+/xmlrpc.php
+164.132.161.72
+0 1 1 39585 1 1459783494
+/package/fragata-yacht/
+94.124.120.61
+0 1 0 261 1 1459810896
+/xmlrpc.php
+173.252.90.231
+0 1 1 48446 1 1460676620
+/
+100.43.91.1
+0 1 0 23509 1 1460787966
+-
+91.206.207.208
+0 1 0 261 1 1460868929
+/xmlrpc.php
+204.79.180.51
+0 1 1 27192 0 0
+-
+81.177.165.21
+0 1 0 261 1 1460849623
+/xmlrpc.php
+195.154.243.31
+0 730 729 4809741 1 1460550572
+/wp-login.php
+188.93.144.50
+0 1 0 261 1 1459721370
+/xmlrpc.php
+89.187.142.208
+0 1 0 274 1 1459492172
+-
+79.172.252.51
+0 1 0 261 1 1460339722
+/xmlrpc.php
+5.149.254.109
+0 2 1 48597 1 1460773888
+/
+92.53.96.71
+0 1 0 261 1 1460757955
+/xmlrpc.php
+178.32.247.82
+0 1 0 261 1 1460594900
+/xmlrpc.php
+207.46.13.14
+0 5 2 73413 1 1459472572
+-
+81.31.155.67
+0 1 0 261 1 1459766965
+/xmlrpc.php
+204.79.180.194
+0 1 1 15708 0 0
+-
+72.4.143.205
+0 1 0 261 1 1460262444
+/xmlrpc.php
+176.32.230.23
+0 2 0 522 2 1460871862
+/xmlrpc.php
+31.185.0.6
+0 2 0 522 2 1459767500
+/xmlrpc.php
+100.43.85.22
+0 1 0 243 1 1459522262
+/
+180.76.15.158
+0 8 3 153657 8 1460937087
+/
+40.77.167.81
+0 1 0 23509 1 1460701850
+-
+173.252.95.12
+0 1 1 90750 0 0
+-
+80.179.226.44
+0 3 0 783 3 1460557302
+/xmlrpc.php
+46.252.205.188
+0 1 0 261 1 1460538059
+/xmlrpc.php
+208.113.219.250
+0 1 0 261 1 1459886613
+/xmlrpc.php
+185.42.12.14
+0 1 0 261 1 1460476552
+/xmlrpc.php
+87.236.199.194
+0 1 0 261 1 1460147656
+/xmlrpc.php
+217.67.30.35
+0 2 0 522 2 1460793346
+/xmlrpc.php
+65.175.73.129
+0 1 0 261 1 1459800015
+/xmlrpc.php
+178.137.93.24
+0 21 20 1199355 1 1460062867
+/xmlrpc.php
+66.175.210.42
+0 9 9 382 3 1460023797
+/wp-admin/admin-ajax.php
+204.79.180.104
+0 1 1 5959 0 0
+-
+164.132.161.57
+0 1 1 690 1 1459702737
+/blog-3-columns/feed/
+100.43.91.3
+0 1 1 142 0 0
+-
+141.138.169.209
+0 4 0 1044 4 1460595013
+/xmlrpc.php
+204.79.180.55
+0 1 1 735 0 0
+-
+188.65.116.66
+0 1 0 261 1 1460491521
+/xmlrpc.php
+158.69.54.97
+0 2 0 522 2 1460357769
+/xmlrpc.php
+184.154.36.163
+0 67 55 1439924 2 1460458095
+/wp-login.php
+198.50.200.139
+0 1 0 243 1 1460386791
+/
+141.8.143.217
+0 2 2 48206 0 0
+-
+82.98.160.20
+0 1 0 261 1 1460478150
+/xmlrpc.php
+69.171.228.122
+0 2 2 66342 0 0
+-
+193.111.140.240
+0 2 0 522 2 1459995949
+/xmlrpc.php
+186.202.153.52
+0 2 0 522 2 1460758336
+/xmlrpc.php
+85.128.142.73
+0 1 0 261 1 1459670259
+/xmlrpc.php
+91.121.15.204
+0 2 0 522 2 1460573953
+/xmlrpc.php
+94.136.40.100
+0 2 0 522 2 1459927271
+/xmlrpc.php
+81.7.161.144
+0 1 0 261 1 1459709194
+/xmlrpc.php
+216.172.189.75
+0 3 0 783 3 1460399616
+/xmlrpc.php
+81.95.96.242
+0 1 0 261 1 1460800786
+/xmlrpc.php
+176.31.39.23
+0 3 0 47332 2 1460548964
+-
+173.252.95.14
+0 3 3 73758 0 0
+-
+207.46.13.19
+0 21 17 332548 3 1460461451
+-
+89.161.224.33
+0 3 0 783 3 1460783805
+/xmlrpc.php
+37.9.169.13
+0 1 0 261 1 1460890458
+/xmlrpc.php
+51.255.65.81
+0 2 0 47048 2 1460702071
+-
+204.79.180.14
+0 1 1 15248 0 0
+-
+51.255.65.46
+0 1 1 677 1 1459771282
+/2013/01/01/fringilla-commodo-aenean/feed/
+187.45.193.161
+0 1 0 261 1 1460051021
+/xmlrpc.php
+81.171.239.168
+0 1 0 261 1 1460652861
+/xmlrpc.php
+164.132.161.35
+0 1 1 676 1 1459981092
+/2013/03/03/ullamcorper-cras-aenean/feed/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+50.62.177.157
+0 1 0 261 1 1460938949
+/xmlrpc.php
+194.54.81.150
+0 1 0 261 1 1460941867
+/xmlrpc.php
+208.115.113.82
+0 1 0 261 0 0
+-
+46.118.29.191
+0 2 2 8858 1 1460942959
+/wp-login.php
+66.249.69.111
+0 1 1 23097 0 0
+-
+180.76.15.16
+0 1 1 41580 1 1460939100
+/package/ecuador-amazon-8d-7n/
+192.169.255.4
+0 47 0 802288 1 1460942510
+-
+68.180.230.43
+0 3 3 37059 1 1460944478
+/galapagos-information/feed/
+66.96.183.195
+0 2 2 0 2 1460944268
+/wp-cron.php
+66.249.69.103
+0 3 3 68187 2 1460944265
+/package/anakonda-amazon-river-cruise/
+100.43.85.18
+0 1 1 3217 0 0
+-
+180.76.15.15
+0 1 0 399 1 1460939096
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.discoveringalapagos.com/wp-admin/edit.php
+1 358
+http://www.discoveringalapagos.com/package/galapagos-express-4d-3n/
+1 7
+http://discoveringalapagos.com/wp-content/plugins/cforms/____HISTORY.txt
+1 2
+http://www.discoveringalapagos.com/package/ecuador-unique-7d-6n/
+1 13
+http://www.discoveringalapagos.com/package/ecuador-discovered-9d-8n/
+1 81
+http://www.discoveringalapagos.com/package/eden-yacht/
+1 113
+http://www.discoveringalapagos.com/wp-admin/post-new.php
+1 73
+http://www.discoveringalapagos.com/package/sacha-lodge/
+1 86
+http://www.discoveringalapagos.com/package/eco-galaxy-yacht/
+1 29
+http://www.discoveringalapagos.com/wp-content/themes/tourpackage-v2-01/stylesheet/font-awesome/font-awesome.css
+1 12
+http://www.discoveringalapagos.com/package/galaxy-yacht/
+1 98
+http://www.discoveringalapagos.com/package/anahi-yacht-2/
+1 60
+http://hvd-store.com/
+0 2
+www.discoveringalapagos.com
+1 1
+http://www.discoveringalapagos.com/wp-content/themes/tourpackage-v2-01/style-custom.css
+1 183
+http://www.discoveringalapagos.com/license.php
+1 1
+http://www.google.com/url
+1 532
+http://bing.com/
+0 2
+http://discoveringalapagos.com/feed/
+1 1
+http://www.discoveringalapagos.com/wp-content/plugins/jetpack/css/jetpack-icons.min.css
+1 5
+http://www.discoveringalapagos.com/wp-login.php
+1 39
+http://www.discoveringalapagos.com/faq/
+1 3
+https://jad.subarctic.org/status/discoveringalapagos.com
+1 17
+http://discoveringalapagos.com/robots.txt
+1 1
+http://www.discoveringalapagos.com/wp-content/uploads/2015/12/favicon.png
+1 2
+http://www.discoveringalapagos.com/package/angelito-yacht/
+1 155
+http://www.discoveringalapagos.com/galapagos-cruises/
+1 79
+http://www.discoveringalapagos.com/package/athala-yacht/
+1 130
+http://www.discoveringalapagos.com/package/isabela-yacht/
+1 108
+http://www.discoveringalapagos.com/contact/
+1 57
+http://www.discoveringalapagos.com/
+1 1465
+http://www.discoveringalapagos.com/expedition-packages/
+1 70
+http://www.discoveringalapagos.com/first-class-yachts/
+1 97
+https://www.google.ae
+1 2
+http://www.discoveringalapagos.com/package/aida-maria-yacht/
+1 58
+https://www.facebook.com/
+0 2
+http://www.discoveringalapagos.com/package/galapagos-discovered-5d-4n/
+1 3
+discoveringalapagos.com
+1 4
+http://www.discoveringalapagos.com/package/galapagos-dreams-7d-6n/
+1 8
+http://www.discoveringalapagos.com/wp-admin/
+1 283
+http://www.discoveringalapagos.com/wp-content/themes/tourpackage-v2-01/style.css
+1 44
+https://www.google.com/
+1 4
+- (Direct Request)
+0 10628
+http://www.discoveringalapagos.com/wp-admin/post.php
+1 1636
+http://www.discoveringalapagos.com/package/golodrina-yacht/
+1 93
+http://rbot.info/link/stityfobomubumale
+0 10
+http://www.discoveringalapagos.com/luxury-class-yachts/
+1 132
+http://www.discoveringalapagos.com/galapagos-expeditions/
+1 10
+http://www.discoveringalapagos.com/package/yasuni-kichwa-ecolodge/
+1 89
+http://www.discoveringalapagos.com/package/anakonda-amazon-river-cruise/
+1 48
+http://www.discoveringalapagos.com/wp-admin/admin.php
+1 1946
+http://www.discoveringalapagos.com/wp-content/plugins/LayerSlider/static/js/minicolors/jquery.minicolors.css
+1 5
+http://www.discoveringalapagos.com/package/ecuador-paradise-5d-4n/
+1 10
+http://www.discoveringalapagos.com/package/galapagos-evolution-5d-4n/
+1 2
+http://www.discoveringalapagos.com/wp-content/themes/tourpackage-v2-01/include/stylesheet/jquery-ui-1.8.16.custom.css
+1 4
+http://www.googlebot.com/bot.html
+0 4
+http://www.discoveringalapagos.com/wp-content/themes/tourpackage-v2-01/include/stylesheet/meta-css.css
+1 22
+http://www.discoveringalapagos.com/package/galapagos-adventure-6d-5n/
+1 4
+http://uptime.com/discoveringalapagos.com
+1 6
+http://www.discoveringalapagos.com/xmlrpc.php
+1 11
+http://www.discoveringalapagos.com/package/discover-ecuador-6d-5n/
+1 16
+Google
+2 540
+http://discoveringalapagos.com/xmlrpc.php
+1 82
+http://www.discoveringalapagos.com/wp-admin/load-styles.php
+1 20
+http://www.discoveringalapagos.com/package/eclipse-yacht/
+1 109
+http://www.discoveringalapagos.com/amazon-tours/
+1 86
+http://burger-imperia.com/
+0 3
+http://www.discoveringalapagos.com/galapagos-cruises/page/2/
+1 54
+http://www.discoveringalapagos.com/wp-content/themes/tourpackage-v2-01/include/stylesheet/gdl-panel.css
+1 14
+https://www.google.com.ec/
+1 1
+http://www.discoveringalapagos.com/wp-admin/admin-ajax.php
+1 1
+http://www.discoveringalapagos.com/package/new-flamigo-yacht/
+1 53
+http://www.discoveringalapagos.com/package/fragata-yacht/
+1 95
+http://whois.domaintools.com/discoveringalapagos.com
+1 1
+http://www.discoveringalapagos.com/package/queen-beatriz-yacht/
+1 366
+http://www.discoveringalapagos.com/galapagos-island-hopping/
+1 55
+http://www.discoveringalapagos.com/package/la-pinta-yacht/
+1 23
+http://www.discoveringalapagos.com/galapagos-information/
+1 9
+http://www.discoveringalapagos.com
+1 8
+https://www.google.pl/
+1 1
+http://discoveringalapagos.com/
+1 12
+http://www.discoveringalapagos.com/tourist-economic-class/
+1 24
+http://www.discoveringalapagos.com/package/ecuador-amazon-8d-7n/
+1 37
+http://www.discoveringalapagos.com/package/santa-cruz-ii-yacht/
+1 44
+http://hundejo.com/
+0 2
+http://www.discoveringalapagos.com/wp-admin/css/login.min.css
+1 6
+http://www.discoveringalapagos.com/tourist-superior-class-yachts/
+1 128
+http://www.discoveringalapagos.com/amazon-expeditions/
+1 6
+http://l.facebook.com/l.php
+0 1
+http://www.discoveringalapagos.com/amazon-information/
+1 1
+http://www.discoveringalapagos.com/wp-content/themes/tourpackage-v2-01/stylesheet/nivo-slider.css
+1 20
+http://www.discoveringalapagos.com/wp-content/plugins/LayerSlider/static/skins/preview/skin.css
+1 1
+http://www.discoveringalapagos.com/wp-content/themes/tourpackage-v2-01/include/stylesheet/image-picker.css
+1 8
+http://www.discoveringalapagos.com/wp-content/plugins/LayerSlider/static/skins/v5/skin.css
+1 18
+http://discoveringalapagos.com/wp-login.php
+1 272
+http://www.discoveringalapagos.com/wp-content/uploads/2016/02/fragata-yacht.jpg
+1 1
+# End Of Table - referrers
+# -agents- 
+curl/7.35.0
+0 1
+Mozilla/5.0
+0 9685
+MSIE 7.0
+0 528
+BlackBerry9700/5.0.0.862 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/331 UNTRUSTED/1.0 3gpp-gba
+0 1
+Go 1.1 package http
+0 1
+Internet Explorer 5
+2 12
+weblinkchecker Pywikibot/3.0-dev (g7171) requests/2.0.0 Python/2.7.3.final.0
+0 8
+MSIE 10.0
+0 29
+Synapse)"
+0 2
+archive.o
+0 3
+Mozilla/4.0 (compatible: FDSE robot)
+0 2
+SafeDNSBot (https://www.safedns.com/searchbot)
+0 4
+DuckDuckGo-Favicons-Bot/1.0
+0 4
+Mozilla/4.6
+0 1
+Opera 8.5
+0 6
+PrivacyAwareBot/1.1
+0 45
+awooo
+0 17
+HTTP_Request2/2.3.0 (http://pear.php.net/package/http_request2) PHP/5.3.3
+0 2
+MojeekBot/0.2 (archi; http://www.mojeek.com/bot.html)
+0 1
+Microsoft Office Protocol Discovery
+0 7
+Netscape 6 compatible
+2 9685
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 221
+Opera 9.0
+0 1
+facebookexternalhit/1.1
+0 1
+Mozilla/4.7
+0 2
+LexxeBot/1.0 (lexxebot@lexxe.com)
+0 1
+python-requests/2.9.1
+0 4
+Netscape 4 (or compatible)
+2 7
+YandexImages/3.0
+0 38
+Konqueror/4.2
+0 1
+Opera 6.0
+0 1
+GrapeshotCrawler/2.0
+0 1
+Opera 9.8
+0 52
+Trident/7.0
+0 1
+Google-Site-Verification/1.0
+0 1
+Links (2.1pre15; Linux 2.6.9-19 i686; 80x24)
+0 1
+Opera 7.5
+0 1
+NokiaN82/GoBrowser/1.6.0.48
+0 1
+Googlebot-Image/1.0
+0 7
+UniversalFeedParser/5.2.0 +https://code.google.com/p/feedparser/
+0 1
+HootSuite Image proxy (hosting@hootsuite.com)
+0 9
+G
+0 32
+Internet Explorer 3
+2 1
+ELinks/0.13.GIT (textmode; Linux 2.6.24-1-686 i686; 175x65-2)
+0 1
+Yahoo! Slurp
+0 101
+Uptimebot/1.0
+0 15
+MSIE 8.0
+0 2
+WordPress/4.2.7; http://www.discoveringalapagos.com
+0 533
+Internet Explorer 6
+2 24
+Mozilla/4.0 (compatible  MSIE 8.0  Windows NT 6.1  Trident/4.0  SLCC2  .NET CLR 2.0.50727  .NET CLR 3.5.30729  .NET CLR 3.0.3
+0 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 27
+Baiduspider/2.0
+0 103
+Konqueror
+2 2
+}__test|O:21:\"JDatabaseDriverMysqli\":3:{s:2:\"fc\";O:17:\"JSimplepieFactory\":0:{}s:21:\"\\0\\0\\0disconnectHandlers\";a:1:
+0 2
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)
+0 38
+MSIE 9.0
+0 7181
+Mozilla/4.0 (compatible  MSIE 8.0  Windows NT 6.1  WOW64  Trident/4.0  MRSPUTNIK 2, 3, 0, 301  MRA 5.7 (build 03797)  SLCC2  
+0 1
+NFReader/1.4.1.0 (http://www.gaijin.at/)
+0 1
+Opera 9.5
+0 2
+PycURL/7.16.4
+0 1
+Links (0.98; Darwin 6.6 Power Macintosh)
+0 1
+Opera
+2 65
+Googlebot/2.1
+0 223
+Opera 10.1
+0 1
+MSIE 4.0
+0 1
+Internet Explorer 4
+2 1
+MSIE 6.0
+0 24
+Microsoft Office Excel 2014
+0 7
+Opera 9.2
+0 1
+semanticbot
+0 6
+DotBot/1.1
+0 85
+YandexBot/3.0
+0 120
+MJ12bot/v1.4
+0 8
+Konqueror/3.0
+0 1
+UniversalFeedParser/5.2.1 +https://code.google.com/p/feedparser/
+0 4
+MSIE 3.0
+0 1
+MSIE 5.0
+0 12
+bingbot/2.0
+0 376
+AhrefsBot/5.1
+0 188
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
